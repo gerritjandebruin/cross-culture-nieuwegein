@@ -20,8 +20,8 @@ We are a group of young and old people with different nationalities. We meet eac
     <div class="carousel-item active">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="../assets/img/judy.jpg" class="rounded"/></div>
-                <div class="col-12 col-sm-9"><p>"I met somebody from Cross Culture on the football pitch. Immediately I experienced that this encounter was an answer from God to my questions. My heart spoke. Often, I was restless and lonely and tried to suppress that restlessness. That did not work out. But now God has taught me to find peace and tranquility with Him. He has now become my Father. I can no longer go to church without my brothers and sisters. I look no longer to my circumstances alone, the difficulties, but I put my life in the hands of Jesus. My second name is Ruth. I experience that as no coincidence. Ruth came from a different country but still started serving the God of the new country." - <strong>Judy Kamande</strong></p></div>
+                <div class="col-12 col-sm-3"><img src="../assets/img/sana.jpg" class="rounded"/></div>
+                <div class="col-12 col-sm-9"><p class="block">"With my husband, I came to the Netherlands in 2014. We had to flee due to great insecurity in our home country. After having lived in all kinds of AZCs for years, we were assigned a house in Galecop, Nieuwegein. The first time was very difficult, but luckily we came in contact with Theo Vreugdenhil and Cross Culture. When we joined the Cross Culture group holiday in 2016, everything changed. That was a great week! We experienced the love of God in the conversations with the other participants. We shared our experiences during the talks in the late hours. We noticed that people felt our pain and really wanted to help us. From that moment the ice was broken - as the Dutch say. Cross Culture has become our family and our son Moses has also been baptized there!" - <strong>Sana & Sameer Sarfraz</strong></p></div>
             </div>
         </div>
     </div>
@@ -36,8 +36,8 @@ We are a group of young and old people with different nationalities. We meet eac
     <div class="carousel-item">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="../assets/img/sana.jpg" class="rounded"/></div>
-                <div class="col-12 col-sm-9"><p class="block">"With my husband, I came to the Netherlands in 2014. We had to flee due to great insecurity in our home country. After having lived in all kinds of AZCs for years, we were assigned a house in Galecop, Nieuwegein. The first time was very difficult, but luckily we came in contact with Theo Vreugdenhil and Cross Culture. When we joined the Cross Culture group holiday in 2016, everything changed. That was a great week! We experienced the love of God in the conversations with the other participants. We shared our experiences during the talks in the late hours. We noticed that people felt our pain and really wanted to help us. From that moment the ice was broken - as the Dutch say. Cross Culture has become our family and our son Moses has also been baptized there!" - <strong>Sana & Sameer Sarfraz</strong></p></div>
+                <div class="col-12 col-sm-3"><img src="../assets/img/judy.jpg" class="rounded"/></div>
+                <div class="col-12 col-sm-9"><p>"I met somebody from Cross Culture on the football pitch. Immediately I experienced that this encounter was an answer from God to my questions. My heart spoke. Often, I was restless and lonely and tried to suppress that restlessness. That did not work out. But now God has taught me to find peace and tranquility with Him. He has now become my Father. I can no longer go to church without my brothers and sisters. I look no longer to my circumstances alone, the difficulties, but I put my life in the hands of Jesus. My second name is Ruth. I experience that as no coincidence. Ruth came from a different country but still started serving the God of the new country." - <strong>Judy Kamande</strong></p></div>
             </div>
         </div>
     </div>
