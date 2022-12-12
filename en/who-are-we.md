@@ -81,7 +81,7 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
     <div class="col-12 col-sm-6">
       <strong>Leiderschapsteam</strong>
       <ul>
-        <li>Maarten Atsma (voorzitter)</li>
+        <li>Maarten Atsma (chair)</li>
         <li>Debbie Sieders</li>
         <li>Michele Atsma</li>
         <li>Urbain Nkanga</li>
@@ -95,10 +95,12 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
     <div class="col-12 col-sm-6">
       <strong>Stuurgroep</strong>
       <ul>
+        <li>Cornelis van Dis (chair & deacon)</li>
+        <li>Evi-Anne van Eijk (treasurer)</li>
+        <li>Gertjan van Eijk (elder Anker congregation)</li>
+        <li>Gertjan Glismeijer (preacher Hervormd Vreeswijk)</li>
+        <li>Roamie de Villiers (treasurer)</li>
         <li>Theo Vreugdenhil (pastor)</li>
-        <li>Cornelis van Dis (voorzitter & diaken)</li>
-        <li>Gertjan Glismeijer (predikant Hervormd Vreeswijk)</li>
-        <li>Gertjan van Eijk (ouderling Ankergemeente)</li>
       </ul>
     </div>
   </div>
