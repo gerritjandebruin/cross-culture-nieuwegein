@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-md">
+    <div class="container-fluid justify-content-center">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                {% if page.lang == 'nl' %}
+                    {% for item in site.data.navigation-nl %}
+                    <li class="nav-item">
+                        <a class="nav-link px-1 py-0 mx-2 fs-5 fw-bold text-dark {% if page.url == item.link %}text-decoration-underline{% endif %}" href="{{ item.link }}">
+                            {{ item.name }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                    {% if page.title != 'Media' %}
+                    <li class="nav-item ml-4">
+                        <a class="nav-link px-1 py-0 mx-2 fs-5 fw-bold text-dark" href="en/{{ page.lang-link }}"><img src="/assets/img/en.png" style="width: 20px; vertical-align: middle;" /> English</a>
+                    </li>
+                    {% endif %}
+                {% else %}
+                    {% for item in site.data.navigation-en %}
+                    <li class="nav-item">
+                        <a class="nav-link px-1 py-0 mx-2 fs-5 fw-bold text-dark {% if page.url == item.link %}text-decoration-underline{% endif %}" href="{{ item.link }}">
+                            {{ item.name }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                    <li class="nav-item ml-4">
+                        <a class="nav-link px-1 py-0 mx-2 fs-5 fw-bold text-dark" href="../{{ page.lang-link }}"><img src="/assets/img/nl.png" style="width: 20px; vertical-align: middle;" /> Nederlands</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</nav>

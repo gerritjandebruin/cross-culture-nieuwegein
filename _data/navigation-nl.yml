@@ -1,0 +1,12 @@
+- name: Welkom!
+  link: /
+- name: Wie zijn wij?
+  link: /wie-zijn-wij.html
+- name: Activiteiten
+  link: /activiteiten.html
+- name: Partners
+  link: /partners.html
+- name: Media
+  link: /media.html
+- name: Contact
+  link: /contact.html

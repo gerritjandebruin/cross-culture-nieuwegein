@@ -1,0 +1,30 @@
+---
+title: Partners
+lang: nl
+lang-link: partners
+last_modified_at: 2022-09-01
+---
+<figure class="text-end">
+  <blockquote class="blockquote">
+    <p>ALS JE SNEL WILT GAAN, GA DAN ALLEEN. ALS JE VER WILT KOMEN, GA DAN SAMEN!</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    (AFRIKAANS GEZEGDE)
+  </figcaption>
+</figure>
+
+<div class="container text-center">
+    {% for partner in site.data.partners-nl %}
+        <div class="row align-items-center py-2 py-sm-5">
+            <div class="col-12 col-sm-3">
+                <img class="img-fluid" src="./assets/img/{{ partner.img }}">
+            </div>
+            <div class="col-12 col-sm-9">
+                {{ partner.text | markdownify}}
+            </div>
+        </div>
+        <hr />
+    {% endfor %}
+</div>
+
+<p class="pt-1 pt-sm-5">Naast bovenstaande officiële partners hebben we contact met lokale instanties en de lokale overheid in Nieuwegein.</p>

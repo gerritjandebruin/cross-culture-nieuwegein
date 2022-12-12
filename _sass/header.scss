@@ -1,0 +1,11 @@
+.navbar {
+    background-color: $base-color;
+}
+
+.navbar-nav,
+.mr-auto {
+    flex: 1;
+    margin: auto !important;
+    display: flex;
+    justify-content: center;
+}

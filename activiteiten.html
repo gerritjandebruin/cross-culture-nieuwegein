@@ -1,0 +1,31 @@
+---
+title: Activiteiten
+lang: nl
+lang-link: activities
+last_modified_at: 2022-09-01
+---
+Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuwegein!
+
+<div class="row row-cols-1 row-cols-md-4 g-2">
+  {% for activity in site.data.activiteiten-nl %}
+    <div class="col">
+      <div class="card {% if activity.img_dark %} text-bg-dark {% else %} text-bg-white {% endif %} h-100">
+        <img src="./assets/img/{{activity.img}}" class="card-img-top" alt="{{activity.title}}">
+        <div class="card-img-overlay"><h1 class="card-title">{{activity.title}}</h1></div>
+        <a href="#{{activity.short}}" class="stretched-link"></a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<hr class="my-1 my-sm-3" />
+  {% for activity in site.data.activiteiten-nl %}
+    <div class="row align-items-center">
+      <div class="col-9">
+        <h1 id="{{activity.short}}" >{{activity.title}}</h1>
+        <div style="text-align: left">{{activity.text}}</div>
+      </div>
+      <div class="col-3"><img src="./assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"/></div>
+    </div>
+  <hr />
+  {% endfor %}
