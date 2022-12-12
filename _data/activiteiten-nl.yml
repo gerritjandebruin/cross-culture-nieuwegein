@@ -1,14 +1,12 @@
 - short: meeting
   title: Cross Culture Meeting
   img: cc-meeting1.jpg
-  img_dark: True
   text: |
     <p>De Cross Culture Meeting op zondag is voor ons de belangrijkste ontmoetingsplek. Het is een viering waarin we ruimte maken om elkaar en God te ontmoeten door gesprek, koffie, maaltijd, gebed, Bijbeluitleg, zingen en stilte. We starten om 13:00 uur en beginnen elke 2e zondag van de maand met een maaltijd, waarin we genieten van wat we zelf hebben klaargemaakt. Ook als je zelf geen eten mee neemt ben je natuurlijk van harte welkom. Er is altijd genoeg voor iedereen! Voor de kinderen is er tijdens de viering een eigen programma. De volwassenen luisteren met elkaar naar een preek, presentatie of getuigenis waarin de Bijbel uitgelegd wordt. Na afloop is er vaak ruimte om daar nog over in gesprek te gaan, bijvoorbeeld in een klein groepje. Regelmatig deelt iemand ook iets over zijn/haar leven of het land van herkomst. We kunnen van elkaars verhaal vaak veel leren.</p>
     <p>We doen er alles aan om ervoor te zorgen dat gasten zich welkom voelen. Ook kunnen mensen vrijwillig bijdragen aan de onkosten of iets geven voor mensen in nood.</p>
 - short: hulp
   title: Praktische hulp
   img: praktische-hulp.jpg
-  img_dark: True
   text: |
     <p>We vinden het belangrijk om er voor elkaar te zijn en elkaar te helpen bij problemen, van welke aard dan ook. Zo willen we elkaar én de wijk ook praktisch helpen. Door bijvoorbeeld te klussen, hulp te bieden met financiën, een fiets te repareren, een auto uit te lenen, kleding of voedsel uit te delen of een taalmaatje te zoeken.</p>
     <p>Heb jij hulp nodig of wil je graag iemand helpen? Contact de diaconie via Cornelis (<a href="tel://+31683375880">06 83375880</a>).</p>
@@ -16,7 +14,6 @@
 - short: kids
   title: Kids
   img: kids.jpg
-  img_dark: True
   text: |
     <p>Kinderen horen er helemaal bij. Sterker nog, we kunnen als volwassenen ook veel van hen leren! Tijdens Cross Culture Meetings maken we er voor de kinderen een feest van door leuke creatieve knutsels, spellen, liedjes en Bijbelverhalen. Daarnaast organiseren we allerlei leuke kinderactiviteiten, bijvoorbeeld tijdens schoolvakanties. Een vossenjacht, samen Lego-Masters doen, een kinderconcert bezoeken, etc.</p>
     <p>We vinden het leuk als jij ook komt!</p>
@@ -24,7 +21,6 @@
 - short: tieners
   title: "Tieners: Connect Us"
   img: tieners.jpg
-  img_dark: True
   text: |
     <p>
       <strong>Wat doen we?</strong> Door sport, spel en gezelligheid investeren we in vriendschappen tussen jongeren uit diverse culturen.<br />
@@ -36,7 +32,6 @@
 - short: youth-alpha
   title: "Tieners: Youth Alpha"
   img: youth-alpha.jpg
-  img_dark: True
   text: |
     <p>
       <strong>Wat doen we?</strong>  Fun, faith and friendship! We verdiepen ons samen op een avond in een thema uit de Bijbel en passen dit toe in ons leven. Met leuke werkvormen en spellen leren we nieuwe dingen over God en onszelf.<br />
@@ -47,7 +42,6 @@
 - short: alpha
   title: Alpha
   img: alpha.jpg
-  img_dark: True
   text: |
     <p>Twee keer per jaar organiseren we een Alpha-cursus. Het is een gratis cursus waarin de basis van het christelijk geloof wordt onderzocht in 10 sessies en een weekend. Je maakt op een laagdrempelige manier kennis met het christelijk geloof en Jezus. Het is een open, informele en eerlijke ruimte om samen de grote vragen van het leven te onderzoeken en te bespreken. We starten met een gezamenlijke maaltijd en volgen daarna een interactieve avond met alle ruimte voor vragen.</p>
     <p>We starten met een introductieavond: Is er meer in het leven? Daar leren we elkaar beter kennen. Voor meer informatie contact Theo (<a href="tel://+31627004576">06 27004576</a>).</p>
@@ -68,7 +62,6 @@
 - short: groepsvakantie
   title: Groeps&shy;vakantie
   img: groepsvakantie.jpg
-  img_dark: True
   text: |
     <p>Niet voor iedereen is op vakantie gaan vanzelfsprekend. Of misschien heb je wel zin om eens met wat meer mensen een weekje weg te gaan. Elk jaar (inmiddels al 8 jaar op een rij) gaan we in de zomervakantie met elkaar een midweekje op vakantie.</p>
     <p>Heerlijk om een weekje te ontspannen en om de tijd te hebben om elkaar beter te leren kennen. Naast leuke uitjes (pretpark, sporten, zwemmen, zeskamp, filmavond, etc.) hebben we tijdens die week ook een inspirerend programma, waarin we de tijd nemen voor de diepere vragen van het leven.</p>
@@ -76,7 +69,6 @@
 - short: sport
   title: Sport&shy;community
   img: sport.jpg
-  img_dark: True
   text: |
     **Wat doen we?** Heerlijk samen sporten door te voetballen of te volleyballen of welke andere leuke sport jij in teamverband wilt doen! Daarnaast doen we natuurlijk onze inspiratie op door gezellig bij iemand thuis sportwedstrijden te kijken. Champions League, Olympische Spelen, etc.  
     **Voor wie?** Iedereen! Neem gerust je buren, vrienden en familie mee!  
@@ -85,7 +77,6 @@
 - short: muziek
   title: Muziek&shy;community
   img: muziek.jpg
-  img_dark: True
   text: |
     <p><strong>Wat doen we?</strong> Heerlijk samen sporten door te voetballen of te volleyballen of welke andere leuke sport jij in teamverband wilt doen! Daarnaast doen we natuurlijk onze inspiratie op door gezellig bij iemand thuis sportwedstrijden te kijken. Champions League, Olympische Spelen, etc.<br>
     <strong>Voor wie?</strong> Iedereen! Neem gerust je buren, vrienden en familie mee!<br>
@@ -94,7 +85,6 @@
 - short: sisters
   title: Cross Culture Sisters
   img: sisters.jpg
-  img_dark: True
   text: |
     <p><strong>Wat doen we?</strong> Als vrouwen ontmoeten we elkaar rondom allerlei verschillende activiteiten. We kunnen bijvoorbeeld picknicken, creatief zijn, luisteren naar sprekers of gezellig thee en koffie drinken. Daarnaast komt er twee keer in het jaar een speciale Ladiesnight.<br>
     <strong>Voor wie?</strong> Alle vrouwen (20+) van Cross Culture.<br>
@@ -103,7 +93,6 @@
 - short: biblestudy
   title: Biblestudy communities
   img: huisgroepen.jpg
-  img_dark: True
   text: |
     <p><strong>Wat doen we?</strong> Elkaar ontmoeten en samen bidden, lezen en leren uit de Bijbel.<br>
     <strong>Voor wie?</strong> Voor mannen of vrouwen uit Cross Culture. Er worden verschillende mannen- en vrouwengroepen gemaakt. Er zijn zowel Nederlandstalige als Engelstalige groepen. Omdat deze groepen vaak wat kleiner zijn en er persoonlijke gesprekken gevoerd worden, vragen deze communities om een commitment voor het seizoen (oktober tot april).<br>
@@ -113,20 +102,17 @@
 - short: evenementen
   title: Evenementen
   img: christmas.jpg
-  img_dark: True
   text: >
     <p>Samen feesten vieren vinden we belangrijk. We delen graag in onze feestvreugde! Rondom de christelijke feestdagen organiseren we daarom diverse evenementen. Met <em>Pasen</em> (het belangrijkste feest van het christendom) doen we een outreach om op een creatieve manier te vieren dat Jezus leeft. Met kerst is onze ‘<em>Cross Culture Christmas</em>’ inmiddels een begrip geworden. Hét event om op een bijzondere manier als Gods familie kerst te vieren. Voor meer dan honderd mensen verzorgen we een gratis kerstdiner voor iedereen die dat wilt. Vrienden, familie, buren: iedereen is welkom!</p>
 - short: eten
   title: Eten redden en uitdelen
   img: eten-uitdelen.jpg
-  img_dark: True
   text: |
     <p>Verschillende supermarkten, een bakker en een groothandel in groente en fruit in de buurt zijn genoodzaakt om eten weg te gooien wat niet meer verkocht kan worden. Vaak vanwege de houdbaarheidsdata of beschadigde verpakkingen. Dit eten is nog goed, het is toch sonde (of zonde?) om dit weg te gooien terwijl er in ons netwerk veel mensen zijn die moeite hebben om rond te komen. Nadat een aantal mensen jarenlang als ‘dumpsterdivers’ / ‘skippers’ dit eten ging redden uit de vuilnisbak hebben we nu een ‘ophaaldeal’ gesloten: we mogen de boodschappen ophalen en uitdelen aan mensen die dit nodig hebben.</p>
     <p>Er zijn daarvoor twee vaste uitdeelpunten (bij onze woongroepen, zie hier onder voor de adressen en contactgegevens). Er is ook een -alleen-lezen- whatsappgroep met alle updates over het eten. Wil je je daarvoor aanmelden? Contact Rob Hoegée (<a href="tel://+31611989698">06 11989698</a>).</p>
 - short: woongroepen
   title: Woongroepen / opvang
-  img:
-  img_dark: True
+  img: woongroepen.png
   text: |
     <p>In het Cross Culture netwerk bevinden zich ook twee woongroepen. Een aantal mensen die hebben besloten om samen te gaan wonen in een (groot) huis, en het leven te delen. Beide groepen willen ook van betekenis zijn voor anderen. Vanuit deze groepen wordt vaak eten uitgedeeld en is er een plek om gezellig een bak koffie te drinken.</p>
     <ul>
@@ -137,5 +123,4 @@
 - shorten: men
   title: De Strijders/ Men's group
   img: mens.jpg
-  img_dark: False
   text: 
