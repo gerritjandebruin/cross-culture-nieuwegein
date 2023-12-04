@@ -5,6 +5,11 @@ lang-link:
 last_modified_at: 2022-09-01
 canonical_url: "https://cross-culture-nieuwegein.nl/"
 ---
+
+![](assets/img/kerstflyer.jpg)
+
+------------------------------------------------------------------------------------------------------------------------
+
 We zijn een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. 
 We houden van lekker eten, we zijn gastvrij en willen een plek zijn waar iedereen zich thuis voelt. 
 Onze activiteiten hebben als doel om elkaar en Jezus (beter) te leren kennen en hem te volgen in onze stad, Nieuwegein.
@@ -48,4 +53,4 @@ Theo Vreugdenhil (<a href="tel://+31627004576">06 27004576</a>)
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<div class="fb-page" data-href="https://www.facebook.com/crossculturenieuwegein/" data-tabs="timeline,events,messages" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/crossculturenieuwegein/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/crossculturenieuwegein/">Cross Culture Nieuwegein</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/crossculturenieuwegein/" data-tabs="timeline,events,messages" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/crossculturenieuwegein/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/crossculturenieuwegein/">Our Facebook page</a></blockquote></div>

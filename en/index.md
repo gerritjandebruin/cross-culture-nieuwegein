@@ -4,6 +4,10 @@ lang: en
 lang-link:
 last_modified_at: 2022-09-01
 ---
+
+![](../assets/img/kerstflyer.jpg)
+
+------------------------------------------------------------------------------------------------------------------------
 We are a warm, colorful church in Nieuwegein with people from all cultures. We love good food, we are hospitable and we want to be a place where everyone feels at home. Our activities aim to get to know each other and Jesus (better) and to follow him in our city, Nieuwegein.
 
 Everyone is welcome, whether you are a Christian or not. We would like to meet you!
@@ -55,6 +59,6 @@ During the week at different times and at different people's homes we meet.
 
 <div class="fb-page" data-href="https://www.facebook.com/crossculturenieuwegein/" data-tabs="timeline, events, messages" data-width="500px" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
     <blockquote cite="https://www.facebook.com/crossculturenieuwegein/" class="fb-xfbml-parse-ignore">
-        <a href="https://www.facebook.com/crossculturenieuwegein/">Cross Culture Nieuwegein</a>
+        <a href="https://www.facebook.com/crossculturenieuwegein/">Our Facebook page</a>
     </blockquote>
 </div>

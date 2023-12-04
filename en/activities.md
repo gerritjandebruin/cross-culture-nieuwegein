@@ -10,7 +10,7 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 
 # CC-Meetings
 <div class="flex-container">
-<div class="left"><img src="../assets/img/cc-meeting1.jpg"></div>
+<div class="left"><img class="img-thumbnail" src="../assets/img/cc-meeting1.jpg" style="max-width: 300px" /></div>
 <div>
 <p>The CC meeting on Sunday’s is the most important meeting place for us. It is a service in which we make possibility of knowing each other and God through conversation, coffee, meal, prayer, Bible interpretation, singing and silence. We start at 13:00 with a meal and enjoy what we have cooked. Even if you do not bring your own food, you are welcome. There is always enough for everyone!</p>
 <p>Children have their own program after the meal. The adults listen to a sermon in which Bible text is explained. Afterwards we talk in the small groups.</p>
