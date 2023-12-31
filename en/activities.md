@@ -28,14 +28,14 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 
 <p>More information via Linda <a href="tel:=31613204496">(0613204496)</a>.</p>
 </div>
-<div class="right"><img src="../assets/img/huisgroepen.jpg"></div>
+<div class="right"><img src="../assets/img/huisgroepen.jpg" style="max-width: 300px"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Practical help
 <div class="flex-container">
-<div class="left"><img src="../assets/img/praktische-hulp.jpg"></div>
+<div class="left"><img src="../assets/img/praktische-hulp.jpg" style="max-width: 300px"></div>
 <div>
 <p>We find it important to help each other with the problems and we want to help the neighborhood. For example financial help, bicycle repair, borrowing a car, clothing, food or finding a language mate.</p>
 <p>Every week we distribute food from three different places in the city. Through two community houses and on Sundays in the church. <a href="en/contact">Contact us</a> if you want to participate!</p>
@@ -52,14 +52,14 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 
 <p>For more information contact Wiljanne <a href="tel:+31613204496">(0613204496)</a></p>.
 </div>
-<div class="right"><img src="../assets/img/kids.jpg"></div>
+<div class="right"><img src="../assets/img/kids.jpg" style="max-width: 300px"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Group vacation
 <div class="flex-container">
-<div class="left"><img src="../assets/img/groepsvakantie.jpg"></div>
+<div class="left"><img src="../assets/img/groepsvakantie.jpg" style="max-width: 300px"></div>
 <div>
 <p>Every year we go for a holiday in summer holidays. With whom? People involved in Cross Culture Nieuwegein activities and the people who cannot afford holiday.</p>
 <p>It is great to relax for a week and to have time to get to know each other better. Do you want to join? Welcome!</p>
@@ -72,14 +72,14 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 <div>
 <p>The teenagers meet each other at cross culture or the activities nearby playing football, watching a movie or on a group holiday together.</p>
 </div>
-<div class="right"><img src="../assets/img/tieners.jpg"></div>
+<div class="right"><img src="../assets/img/tieners.jpg" style="max-width: 300px"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Cross Culture Christmas
 <div class="flex-container">
-<div class="left"><img src="../assets/img/christmas.jpg"></div>
+<div class="left"><img src="../assets/img/christmas.jpg" style="max-width: 300px"></div>
 <div>
 <p>This is an event to celebrate Christmas in a special way like God’s family. Friends, family, neighbors: everyone is welcome!</p>
 </div>
