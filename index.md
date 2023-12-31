@@ -2,13 +2,9 @@
 title: Cross Culture Nieuwegein
 lang: nl
 lang-link:
-last_modified_at: 2022-09-01
+last_modified_at: 2023-12-31
 canonical_url: "https://cross-culture-nieuwegein.nl/"
 ---
-
-![](assets/img/kerstflyer.jpg)
-
-------------------------------------------------------------------------------------------------------------------------
 
 We zijn een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. 
 We houden van lekker eten, we zijn gastvrij en willen een plek zijn waar iedereen zich thuis voelt. 
