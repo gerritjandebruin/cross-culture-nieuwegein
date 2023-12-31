@@ -3,6 +3,7 @@ title: Cross Culture Nieuwegein
 lang: en
 lang-link:
 last_modified_at: 2023-12-31
+canonical_url: "https://cross-culture-nieuwegein.nl/en"
 ---
 
 We are a warm, colorful church in Nieuwegein with people from all cultures. We love good food, we are hospitable and we want to be a place where everyone feels at home. Our activities aim to get to know each other and Jesus (better) and to follow him in our city, Nieuwegein.

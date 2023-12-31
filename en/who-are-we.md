@@ -3,6 +3,7 @@ title: Who are we?
 lang: en
 lang-link: wie-zijn-wij
 last_modified_at: 2022-09-01
+canonical_url: "https://cross-culture-nieuwegein.nl/en/who-are-we.html"
 ---
 We are a group of young and old people with different nationalities. We meet each other with the purpose of getting to know each other and Jesus (better) and following him in our city, Nieuwegein. We meet every Sunday for the CC-Meeting. Then we celebrate that we are one in Christ by eating together, singing, praying and listening to God’s Word. In addition, we meet in a casual way at home, through bible study groups, alpha courses or in other ways.
 

@@ -3,7 +3,7 @@ title: Cross Culture Nieuwegein
 lang: nl
 lang-link:
 last_modified_at: 2023-12-31
-canonical_url: "https://cross-culture-nieuwegein.nl/"
+canonical_url: "https://cross-culture-nieuwegein.nl"
 ---
 
 We zijn een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. 
@@ -34,7 +34,7 @@ Iedereen is welkom, of je nu wel christen bent of niet. We willen je graag ontmo
   </button>
 </div>
 
-<p class="mt-2">Lees <a href="wie-zijn-wij">hier meer over wie we zijn</a> en natuurlijk ben je van harte welkom bij onze <a href="activiteiten">activiteiten</a>.</p>
+<p class="mt-2">Lees <a href="wie-zijn-wij">hier meer over wie we zijn</a> en natuurlijk ben je van harte welkom bij onze <a href="activiteiten.html">activiteiten</a>.</p>
 
 ------------------------------------------------------------------------------------------------------------------------
 

@@ -3,7 +3,7 @@ title: Media
 lang: nl
 lang-link: media
 last_modified_at: 2022-09-01
-canonical_url: "https://cross-culture-nieuwegein.nl/media.html"
+canonical_url: "https://cross-culture-nieuwegein.nl/media"
 ---
 Neem vijf minuten een kijkje bij Cross Culture in Nieuwegein. Pastor Theo vertelt over het waarom en het hoe van deze levendige groep gelovigen die Jezus volgen in woord en daad.
 
@@ -13,7 +13,7 @@ In verschillende media zijn artikelen of nieuwsberichten verschenen over Cross C
 
 - [2021 - ND: Warm bad en een hete lunch](https://www.nd.nl/geloof/geloof/1017187/warm-bad-en-een-hete-lunch)
 - [2020 - IZB: Taartestafette brengt mensen bij elkaar](https://www.izb.nl/blog/2020/11/24/Taartestafette-brengt-mensen-bij-elkaar)
-- [2020 - Volzin: Sociale coöperatie StekUp helpt migranten tot bloei te komen](https://volzin.nu/sociale-cooperatie-stekup-helpt-migranten-tot-bloei-te-komen/)
+- [2020 - Volzin: Sociale coöperatie StekUp helpt migranten tot bloei te komen](https://volzin.nu/sociale-cooperatie-stekup-helpt-migranten-tot-bloei-te-komen)
 - [2019 - IZB: Verhaal van Hamida](https://www.izb.nl/verhaal-van-hamida)
 - [2019 - CIP: Interview Urbain en Daan](assets/doc/interview2019.pdf)
 - [2019 - IZB: Stekup biedt perspectief](https://www.izb.nl/nieuwsberichten/stekup-biedt-perspectief)

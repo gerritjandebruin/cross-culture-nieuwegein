@@ -3,6 +3,7 @@ title: Activities
 lang: en
 lang-link: activiteiten
 last_modified_at: 2022-09-01
+canonical_url: "https://cross-culture-nieuwegein.nl/en/activities.html"
 ---
 Have a look at the different activities of Cross Culture Nieuwegein!
 
@@ -38,7 +39,7 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 <div class="left"><img src="../assets/img/praktische-hulp.jpg" style="max-width: 300px"></div>
 <div>
 <p>We find it important to help each other with the problems and we want to help the neighborhood. For example financial help, bicycle repair, borrowing a car, clothing, food or finding a language mate.</p>
-<p>Every week we distribute food from three different places in the city. Through two community houses and on Sundays in the church. <a href="en/contact">Contact us</a> if you want to participate!</p>
+<p>Every week we distribute food from three different places in the city. Through two community houses and on Sundays in the church. <a href="en/contact.html">Contact us</a> if you want to participate!</p>
 </div>
 </div>
 
