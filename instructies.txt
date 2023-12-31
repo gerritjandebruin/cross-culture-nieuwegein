@@ -2,6 +2,7 @@
 - Installeer WSL op Windows
 - Installeer Jekyll
 - Update gewenste bestanden in VSCode op de WSL
+- Denk aan last_modified in header
 - Gebruik `bundle exec jekyll b` opdracht om de site te bouwen.
 - Git commit
 - Sync de back-up op nieuw-engeland
