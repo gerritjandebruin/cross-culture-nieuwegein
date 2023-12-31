@@ -2,3 +2,6 @@
 .jekyll-cache
 vendor
 .git
+.env
+instructies.txt
+upload.sh

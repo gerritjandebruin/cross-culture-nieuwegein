@@ -1,0 +1,8 @@
+# Hoe de site te updaten?
+- Installeer WSL op Windows
+- Installeer Jekyll
+- Update gewenste bestanden in VSCode op de WSL
+- Gebruik `bundle exec jekyll b` opdracht om de site te bouwen.
+- Git commit
+- Sync de back-up op nieuw-engeland
+- Sync met WinSCP naar cross-culture-nieuwegein.nl via FTP
