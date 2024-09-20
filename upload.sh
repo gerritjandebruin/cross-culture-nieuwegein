@@ -18,4 +18,4 @@ mirror --continue --reverse --delete --verbose -x ^\.bundle/ -x ^\.jekyll-cache/
 bye
 "
 
-rsync -ah --exclude-from=exclude-file.txt . $RSYNC_TARGET
+# rsync -ah --exclude-from=exclude-file.txt . $RSYNC_TARGET
