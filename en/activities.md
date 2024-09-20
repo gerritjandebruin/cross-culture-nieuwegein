@@ -2,7 +2,7 @@
 title: Activities
 lang: en
 lang-link: activiteiten
-last_modified_at: 2022-09-01
+last_modified_at: 2024-09-20
 canonical_url: "https://cross-culture-nieuwegein.nl/en/activities.html"
 ---
 Have a look at the different activities of Cross Culture Nieuwegein!

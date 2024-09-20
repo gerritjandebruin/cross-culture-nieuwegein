@@ -2,7 +2,7 @@
 title: Cross Culture Nieuwegein
 lang: nl
 lang-link:
-last_modified_at: 2023-12-31
+last_modified_at: 2024-09-20
 canonical_url: "https://cross-culture-nieuwegein.nl"
 ---
 

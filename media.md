@@ -2,7 +2,7 @@
 title: Media
 lang: nl
 lang-link: media
-last_modified_at: 2022-09-01
+last_modified_at: 2024-09-20
 canonical_url: "https://cross-culture-nieuwegein.nl/media"
 ---
 Neem vijf minuten een kijkje bij Cross Culture in Nieuwegein. Pastor Theo vertelt over het waarom en het hoe van deze levendige groep gelovigen die Jezus volgen in woord en daad.
