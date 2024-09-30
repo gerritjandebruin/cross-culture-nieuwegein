@@ -2,7 +2,7 @@
 title: Cross Culture Nieuwegein
 lang: en
 lang-link:
-last_modified_at: 2024-09-20
+last_modified_at: 2024-09-30
 canonical_url: "https://cross-culture-nieuwegein.nl/en"
 ---
 
@@ -33,6 +33,9 @@ Everyone is welcome, whether you are a Christian or not. We would like to meet y
 </div>
 
 <p class="mt-2">Read more about <a href="who-we-are">who we are</a> and of course you are very welcome at our <a href="activities">activities</a>.</p>
+------------------------------------------------------------------------------------------------------------------------
+
+<embed src="../assets/img/alpha.pdf" type="application/pdf" height="800" width="600" />
 
 ------------------------------------------------------------------------------------------------------------------------
 

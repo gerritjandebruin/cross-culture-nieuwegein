@@ -2,10 +2,22 @@
 title: Activities
 lang: en
 lang-link: activiteiten
-last_modified_at: 2024-09-20
+last_modified_at: 2024-09-30
 canonical_url: "https://cross-culture-nieuwegein.nl/en/activities.html"
 ---
 Have a look at the different activities of Cross Culture Nieuwegein!
+
+------------------------------------------------------------------------------------------------------------------------
+# Alpha course
+<div class="flex-container">
+<div>
+<p>
+We have an Alpha Course in English. The Alpha Course is a serious introduction to the Christian faith that invites you to talk about life questions with others in a safe environment only.
+Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Would you like to join?
+</p>
+<p>More information can be obtained by Theo (<a href="tel://+31627004576">06 27004576</a> or <a href=" mailto:alpha@cross-culture-nieuwegein.nl">alpha@cross-culture-nieuwegein.nl</a>).</p>
+</div>
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------
 

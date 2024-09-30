@@ -2,7 +2,7 @@
 title: Wie zijn wij?
 lang: nl
 lang-link: who-are-we
-last_modified_at: 2024-09-20
+last_modified_at: 2024-09-30
 canonical_url: "https://cross-culture-nieuwegein.nl/wie-zijn-wij.html"
 ---
 Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten. Wij ontmoeten elkaar met het doel om elkaar en Jezus (beter) te leren kennen en hem te volgen in onze stad, Nieuwegein. We ontmoeten elkaar elke zondag in de Cross Culture Meeting. Daar vieren we dat we één zijn in Christus door samen te eten, te zingen, te bidden en te luisteren naar Gods Woord. Daarnaast worden door de week heen verschillende activiteiten georganiseerd, waarin we elkaar ontmoeten, betrokken raken op elkaars leven en iets van God kunnen leren. Hierover kan je (hier)[activiteiten] lezen.
@@ -100,11 +100,8 @@ We richten ons daarbij op a) mensen die christelijk opgevoed zijn, b) mensen die
     <div class="col-12 col-sm-6">
       <strong>Leiderschapsteam</strong>
       <ul>
-        <li>Maarten Atsma (voorzitter)</li>
-        <li>Debbie Sieders</li>
-        <li>Michele Atsma</li>
-        <li>Urbain Nkanga</li>
-        <li>Sameer Sarfraz</li>
+        <li>Job Blankenstijn</li>
+        <li>Gertrude Blankestijn</li>
         <li>Linda Muilwijk</li>
         <li>Jaron Jongeneel</li>
         <li>Theo Vreugdenhil</li>
@@ -114,9 +111,9 @@ We richten ons daarbij op a) mensen die christelijk opgevoed zijn, b) mensen die
     <div class="col-12 col-sm-6">
       <strong>Stuurgroep</strong>
       <ul>
-        <li>Cornelis van Dis (voorzitter & diaken)</li>
+        <li>Maaike van Leeuwen (voorzitter)</li>
         <li>Evi-Anne van Eijk (penningmeester)</li>
-        <li>Gertjan van Eijk (ouderling Ankergemeente)</li>
+        <li>Hendrik Jan van Oostrum (ouderling Ankergemeente)</li>
         <li>Gertjan Glismeijer (predikant Hervormd Vreeswijk)</li>
         <li>Roamie de Villiers (penningmeester)</li>
         <li>Theo Vreugdenhil (pastor)</li>
