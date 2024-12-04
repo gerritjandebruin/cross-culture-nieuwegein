@@ -2,7 +2,7 @@
 title: Cross Culture Nieuwegein
 lang: nl
 lang-link:
-last_modified_at: 2024-09-30
+last_modified_at: 2024-12-04
 canonical_url: "https://cross-culture-nieuwegein.nl"
 ---
 
@@ -38,7 +38,11 @@ Iedereen is welkom, of je nu wel christen bent of niet. We willen je graag ontmo
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<embed src="../assets/img/alpha.pdf" type="application/pdf" height="800" width="600" />
+<div><img class="mt-2 img-fluid" src="../assets/img/christmas-dinner.png" alt="Christmas Dinner uitnodiging" /></div>
+<div class="col-lg-6 col-xxl-4 my-2 mx-auto">
+<a class="btn btn-primary" href="mailto:info@cross-culture-nieuwegein.nl?subject=Aanmelden Christmas Dinner&body=Ik wil mij graag meer informatie over de Christmas Dinner" role="button">E-mail</a>
+<a class="btn btn-primary" href="tel:+31627004576" role="button">Telefoon</a>
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
