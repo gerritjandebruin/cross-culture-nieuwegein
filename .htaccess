@@ -6,12 +6,12 @@ RewriteRule ^$ - [G]
 
 # Send www to non-www
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^ %{REQUEST_SCHEME}://%1%{REQUEST_URI} [R=301]
+RewriteRule ^ https://%1/$1 [R=301]
 
 # Send non-html to html
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/$1.html -f
-RewriteRule ^(.*)$ /$1.html
+RewriteRule ^(.*)$ /$1.html [R=301]
 
 # Remove trailing slash
 RewriteCond %{REQUEST_FILENAME} !-d
