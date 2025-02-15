@@ -97,7 +97,7 @@ We richten ons daarbij op a) mensen die christelijk opgevoed zijn, b) mensen die
 
 <div class="container" id="team">
   <div class="row">
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-md-4">
       <strong>Leiderschapsteam</strong>
       <ul>
         <li>Job Blankenstijn</li>
@@ -108,7 +108,7 @@ We richten ons daarbij op a) mensen die christelijk opgevoed zijn, b) mensen die
         <li>Wiljanne Vreugdenhil</li>
       </ul>
     </div>
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-md-4">
       <strong>Stuurgroep</strong>
       <ul>
         <li>Maaike van Leeuwen (voorzitter)</li>
@@ -117,6 +117,13 @@ We richten ons daarbij op a) mensen die christelijk opgevoed zijn, b) mensen die
         <li>Gertjan Glismeijer (predikant Hervormd Vreeswijk)</li>
         <li>Roamie de Villiers (penningmeester)</li>
         <li>Theo Vreugdenhil (pastor)</li>
+      </ul>
+    </div>
+    <div class="col-12 col-md-4">
+      <strong>Diakenen</strong>
+      <ul>
+        <li>Helêne Manschot</li>
+        <li>Jaap van de Kamp</li>
       </ul>
     </div>
   </div>
