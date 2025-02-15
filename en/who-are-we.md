@@ -79,7 +79,7 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
 
 <div class="container" id="team">
   <div class="row">
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-md-4">
       <strong>Leadership</strong>
       <ul>
         <li>Job Blankenstein</li>
@@ -90,7 +90,7 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
         <li>Wiljanne Vreugdenhil</li>
       </ul>
     </div>
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-md-4">
       <strong>Steering group</strong>
       <ul>
         <li>Maaike van Leeuwen (chair)</li>
@@ -99,6 +99,13 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
         <li>Gertjan Glismeijer (preacher Hervormd Vreeswijk)</li>
         <li>Roamie de Villiers (treasurer)</li>
         <li>Theo Vreugdenhil (pastor)</li>
+      </ul>
+    </div>
+    <div class="col-12 col-md-4">
+      <strong>Deacons</strong>
+      <ul>
+        <li>Helêne Manschot</li>
+        <li>Jaap van de Kamp</li>
       </ul>
     </div>
   </div>
