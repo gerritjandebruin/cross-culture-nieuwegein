@@ -16,24 +16,52 @@
     Wie weet staat er binnenkort een taart voor jouw deur en mag jij zelf een taart bakken voor iemand anders!</p>
 - short: woongroepen
   title: Woongroepen / opvang
-  img: woongroepen.png
+  img: humus.png
   show_thumbnail: false
   text: |
     <p>In het Cross Culture netwerk bevinden zich ook drie woongroepen. Een aantal mensen heeft besloten om samen te gaan wonen in een (groot) huis en het leven te delen. Deze gemeenschappen zijn knooppunten en ontmoetingsplekken binnen Cross Culture. De woongroepen willen ook van betekenis zijn voor anderen, bijvoorbeeld door eten uit te delen en gezellig een bak koffie te drinken.</p>
 
-    <div class="col-9">
-      <h2>Woongroep 'Ondersteboven'</h2>
-      <p class="h3">(adres: Handelskade 82)</p>
-      <p>Sinds medio 2024 is er een nieuwe woongemeenschap opgericht in Nieuwegein Zuid: Ondersteboven. Momenteel wonen er vijf volwassenen en één kind. Dit aantal zal, na de grondige verbouwingen, toenemen tot elf volwassenen en een onbekend aantal kinderen (wie weet!). We heten Ondersteboven omdat Gods Koninkrijk alles ondersteboven gooit, en daar zijn we enthousiast over. We zijn momenteel een gemeenschapsruimte aan het bouwen die niet alleen voor ons als bewoners is, maar ook voor iedereen in de wijk Zandveld. We hopen dat dit een plek zal zijn van ontmoeting, samen leven en het leven vieren. We bidden elke maandagavond samen van 19:00-19:30. Voor meer informatie, contacteer Jaron: <a href="tel://0031610475952">06&nbsp;10475952</a></p>
+    <div class="row">
+      <div class="col-9">
+        <h2>Woongroep 'Ondersteboven'</h2>
+        <p class="h3">(adres: Handelskade 82)</p>
+        <p>Sinds medio 2024 is er een nieuwe woongemeenschap opgericht in Nieuwegein Zuid: Ondersteboven. Momenteel wonen er vijf volwassenen en één kind. Dit aantal zal, na de grondige verbouwingen, toenemen tot elf volwassenen en een onbekend aantal kinderen (wie weet!). We heten Ondersteboven omdat Gods Koninkrijk alles ondersteboven gooit, en daar zijn we enthousiast over. We zijn momenteel een gemeenschapsruimte aan het bouwen die niet alleen voor ons als bewoners is, maar ook voor iedereen in de wijk Zandveld. We hopen dat dit een plek zal zijn van ontmoeting, samen leven en het leven vieren. We bidden elke maandagavond samen van 19:00-19:30. Voor meer informatie, contacteer Jaron: <a href="tel://0031610475952">06&nbsp;10475952</a></p>
+      </div>
+      <div class="col-3">
+        <figure>
+          <img src="./assets/img/ondersteboven.jpg" class="img-thumbnail" alt="Woongroep Ondersteboven">
+          <figcaption>Woongroep Ondersteboven</figcaption>
+        </figure>
+      </div>
     </div>
 
-    <h2>Woongroep 'Huize Humus'</h2>
-    <p class="h3">(adres: Noordwijkerschans 60)</p>
-    <p>Sinds oktober 2011 vormt deze groep zich rond de kernwaarden: God, duurzaamheid, relaties en gastvrijheid in de wijk Fokkesteeg. Telefoonnummer: <a href="tel://+31302688523">030&nbsp;2688523</a></p>
+    <div class="row">
+      <div class="col-9">
+        <h2>Woongroep 'Huize Humus'</h2>
+        <p class="h3">(adres: Noordwijkerschans 60)</p>
+        <p>Sinds oktober 2011 vormt deze groep zich rond de kernwaarden: God, duurzaamheid, relaties en gastvrijheid in de wijk Fokkesteeg. Telefoonnummer: <a href="tel://+31302688523">030&nbsp;2688523</a></p>
+      </div>
+      <div class="col-3">
+        <figure>
+          <img src="./assets/img/humus.png" class="img-thumbnail" alt="Woongroep Huize Humus">
+          <figcaption>Woongroep Huize Humus</figcaption>
+        </figure>
+      </div>
+    </div>
 
-    <h2>Woongroep 'Villa Muhaba'</h2>
-    <p class="h3">(adres: Lensveltlaan 17)</p>
-    <p>Sinds 2019 is deze woongroep ontstaan in de wijk Stadscentrum. Er wonen op dit moment 5 mensen, en er is vrijwel dagelijks eten op te halen. Contact: Jaap van de Kamp (<a href="mailto:jaapvdkamp@hotmail.com">jaapvdkamp@hotmail.com</a>).</p>
+    <div class="row">
+      <div class="col-9">
+        <h2>Woongroep 'Villa Muhaba'</h2>
+        <p class="h3">(adres: Lensveltlaan 17)</p>
+        <p>Sinds 2019 is deze woongroep ontstaan in de wijk Stadscentrum. Er wonen op dit moment 5 mensen, en er is vrijwel dagelijks eten op te halen. Contact: Jaap van de Kamp (<a href="mailto:jaapvdkamp@hotmail.com">jaapvdkamp@hotmail.com</a>).</p>
+      </div>
+      <div class="col-3">
+        <figure>
+          <img src="./assets/img/muhaba.jpg" class="img-thumbnail" alt="Woongroep Villa Muhaba">
+          <figcaption>Woongroep Villa Muhaba</figcaption>
+        </figure>
+      </div>
+    </div>
 
     <p>Elke woongroep heeft een <em>opvangplek</em> voor gasten die tijdelijk onderdak nodig hebben.</p>
 - short: kids
