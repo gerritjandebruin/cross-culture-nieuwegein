@@ -20,14 +20,6 @@ Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten.
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-3"><img src="assets/img/sana.jpg" class="rounded"/></div>
-                <div class="col-12 col-sm-9"><p class="block">‘In 2014 kwam ik samen met mijn man naar Nederland, omdat we moesten vluchten vanwege grote onveiligheid in ons geboorteland. Nadat we jaren in allerlei AZC’s hadden gewoond, kregen we een huis toegewezen in Galecop, Nieuwegein. De eerste tijd was heel moeilijk, maar gelukkig kwamen we in contact met Theo Vreugdenhil en Cross Culture. Toen we in 2016 meegingen met de groepsvakantie van Cross Culture veranderde alles. Dat was een geweldige week! We ervoeren de liefde van God in de gesprekken met de andere deelnemers. Tijdens de gesprekken in de late uurtjes deelden we onze ervaringen. We merkten dat mensen onze pijn voelden en met ons echt wilden helpen. Vanaf dat moment was het ijs gebroken – zoals Nederlanders dat zeggen. Cross Culture is onze familie geworden en onze zoon Moses is er inmiddels ook gedoopt!’ - <strong>Sana & Sameer Sarfraz</strong></p></div>
-            </div>
-        </div>
-    </div>
     <div class="carousel-item">
         <div class="container">
             <div class="row">

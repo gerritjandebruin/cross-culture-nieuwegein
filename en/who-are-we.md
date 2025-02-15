@@ -18,14 +18,6 @@ We are a group of young and old people with different nationalities. We meet eac
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-3"><img src="../assets/img/sana.jpg" class="rounded"/></div>
-                <div class="col-12 col-sm-9"><p class="block">"With my husband, I came to the Netherlands in 2014. We had to flee due to great insecurity in our home country. After having lived in all kinds of AZCs for years, we were assigned a house in Galecop, Nieuwegein. The first time was very difficult, but luckily we came in contact with Theo Vreugdenhil and Cross Culture. When we joined the Cross Culture group holiday in 2016, everything changed. That was a great week! We experienced the love of God in the conversations with the other participants. We shared our experiences during the talks in the late hours. We noticed that people felt our pain and really wanted to help us. From that moment the ice was broken - as the Dutch say. Cross Culture has become our family and our son Moses has also been baptized there!" - <strong>Sana & Sameer Sarfraz</strong></p></div>
-            </div>
-        </div>
-    </div>
     <div class="carousel-item">
         <div class="container">
             <div class="row">
