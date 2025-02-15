@@ -22,11 +22,13 @@ Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuweg
 <hr class="my-1 my-sm-3" />
   {% for activity in site.data.activiteiten-nl %}
     <div class="row align-items-center">
-      <div class="col-9">
+      <div class="{% if activity.show_thumbnail %}col-9{% else %}col-12{% endif %}">
         <h1 id="{{activity.short}}" >{{activity.title}}</h1>
         <div style="text-align: left">{{activity.text}}</div>
       </div>
+      {% if activity.show_thumbnail %}
       <div class="col-3"><img src="./assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"/></div>
+      {% endif %}
     </div>
   <hr />
   {% endfor %}

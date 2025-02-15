@@ -1,30 +1,35 @@
 - short: meeting
   title: Cross Culture Meeting
   img: cc-meeting1.jpg
+  show_thumbnail: true
   text: |
     <p>De Cross Culture Meeting op zondag is voor ons de belangrijkste ontmoetingsplek. Het is een viering waarin we ruimte maken om elkaar en God te ontmoeten door gesprek, koffie, maaltijd, gebed, Bijbeluitleg, zingen en stilte. We starten om 13:00 uur en beginnen elke 2e zondag van de maand met een maaltijd, waarin we genieten van wat we zelf hebben klaargemaakt. Ook als je zelf geen eten mee neemt ben je natuurlijk van harte welkom. Er is altijd genoeg voor iedereen! Voor de kinderen is er tijdens de viering een eigen programma. De volwassenen luisteren met elkaar naar een preek, presentatie of getuigenis waarin de Bijbel uitgelegd wordt. Na afloop is er vaak ruimte om daar nog over in gesprek te gaan, bijvoorbeeld in een klein groepje. Regelmatig deelt iemand ook iets over zijn/haar leven of het land van herkomst. We kunnen van elkaars verhaal vaak veel leren.</p>
     <p>We doen er alles aan om ervoor te zorgen dat gasten zich welkom voelen. Ook kunnen mensen vrijwillig bijdragen aan de onkosten of iets geven voor mensen in nood.</p>
 - short: hulp
   title: Praktische hulp
   img: praktische-hulp.jpg
+  show_thumbnail: true
   text: |
     <p>We vinden het belangrijk om er voor elkaar te zijn en elkaar te helpen bij problemen, van welke aard dan ook. Zo willen we elkaar én de wijk ook praktisch helpen. Door bijvoorbeeld te klussen, hulp te bieden met financiën, een fiets te repareren, een auto uit te lenen, kleding of voedsel uit te delen of een taalmaatje te zoeken.</p>
-    <p>Heb jij hulp nodig of wil je graag iemand helpen? Contact de diaconie via Jaap van de Kamp (<a href="mailto:jaapvdkamp@hotmail.com">jaapvdkamp@hotmail.com</a>) of Helène (<a href="tel:+31643291766">06 43291766</a>).</p>
+    <p>Heb jij hulp nodig of wil je graag iemand helpen? Contact de diaconie via Jaap van de Kamp (<a href="mailto:jaapvdkamp@hotmail.com">jaapvdkamp@hotmail.com</a>) of Helène (<a href="tel:+31643291766">06&nbsp;43291766</a>).</p>
     <p>Ook loopt er een taarten-estaffette door de Cross Culture Family.
     Wie weet staat er binnenkort een taart voor jouw deur en mag jij zelf een taart bakken voor iemand anders!</p>
 - short: woongroepen
   title: Woongroepen / opvang
   img: woongroepen.png
+  show_thumbnail: false
   text: |
     <p>In het Cross Culture netwerk bevinden zich ook drie woongroepen. Een aantal mensen heeft besloten om samen te gaan wonen in een (groot) huis en het leven te delen. Deze gemeenschappen zijn knooppunten en ontmoetingsplekken binnen Cross Culture. De woongroepen willen ook van betekenis zijn voor anderen, bijvoorbeeld door eten uit te delen en gezellig een bak koffie te drinken.</p>
 
-    <h2>Woongroep 'Ondersteboven'</h2>
-    <p class="h3">(adres: Handelskade 82)</p>
-    <p>Sinds medio 2024 is er een nieuwe woongemeenschap opgericht in Nieuwegein Zuid: Ondersteboven. Momenteel wonen er vijf volwassenen en één kind. Dit aantal zal, na de grondige verbouwingen, toenemen tot elf volwassenen en een onbekend aantal kinderen (wie weet!). We heten Ondersteboven omdat Gods Koninkrijk alles ondersteboven gooit, en daar zijn we enthousiast over. We zijn momenteel een gemeenschapsruimte aan het bouwen die niet alleen voor ons als bewoners is, maar ook voor iedereen in de wijk Zandveld. We hopen dat dit een plek zal zijn van ontmoeting, samen leven en het leven vieren. We bidden elke maandagavond samen van 19:00-19:30. Voor meer informatie, contacteer Jaron: <a href="tel://0031610475952">06 10475952</a></p>
+    <div class="col-9">
+      <h2>Woongroep 'Ondersteboven'</h2>
+      <p class="h3">(adres: Handelskade 82)</p>
+      <p>Sinds medio 2024 is er een nieuwe woongemeenschap opgericht in Nieuwegein Zuid: Ondersteboven. Momenteel wonen er vijf volwassenen en één kind. Dit aantal zal, na de grondige verbouwingen, toenemen tot elf volwassenen en een onbekend aantal kinderen (wie weet!). We heten Ondersteboven omdat Gods Koninkrijk alles ondersteboven gooit, en daar zijn we enthousiast over. We zijn momenteel een gemeenschapsruimte aan het bouwen die niet alleen voor ons als bewoners is, maar ook voor iedereen in de wijk Zandveld. We hopen dat dit een plek zal zijn van ontmoeting, samen leven en het leven vieren. We bidden elke maandagavond samen van 19:00-19:30. Voor meer informatie, contacteer Jaron: <a href="tel://0031610475952">06&nbsp;10475952</a></p>
+    </div>
 
     <h2>Woongroep 'Huize Humus'</h2>
     <p class="h3">(adres: Noordwijkerschans 60)</p>
-    <p>Sinds oktober 2011 vormt deze groep zich rond de kernwaarden: God, duurzaamheid, relaties en gastvrijheid in de wijk Fokkesteeg. Telefoonnummer: <a href="tel://+31302688523">030 2688523</a></p>
+    <p>Sinds oktober 2011 vormt deze groep zich rond de kernwaarden: God, duurzaamheid, relaties en gastvrijheid in de wijk Fokkesteeg. Telefoonnummer: <a href="tel://+31302688523">030&nbsp;2688523</a></p>
 
     <h2>Woongroep 'Villa Muhaba'</h2>
     <p class="h3">(adres: Lensveltlaan 17)</p>
@@ -34,26 +39,29 @@
 - short: kids
   title: Kids
   img: kids.jpg
+  show_thumbnail: true
   text: |
     <p>Kinderen horen er helemaal bij. Sterker nog, we kunnen als volwassenen ook veel van hen leren! Tijdens Cross Culture Meetings maken we er voor de kinderen een feest van door leuke creatieve knutsels, spellen, liedjes en Bijbelverhalen. Daarnaast organiseren we allerlei leuke kinderactiviteiten, bijvoorbeeld tijdens schoolvakanties. Een vossenjacht, samen Lego-Masters doen, een kinderconcert bezoeken, etc.</p>
     <p>We vinden het leuk als jij ook komt!</p>
-    <p>Meer informatie bij Wiljanne (<a href="tel://+31627427104">06 27427104</a>).</p>
+    <p>Meer informatie bij Wiljanne (<a href="tel://+31627427104">06&nbsp;27427104</a>).</p>
 - short: youth-alpha
   title: "Tieners: Youth Alpha"
   img: youth-alpha.jpg
+  show_thumbnail: true
   text: |
     <p>
       <strong>Wat doen we?</strong>  Fun, faith and friendship! We verdiepen ons samen op een avond in een thema uit de Bijbel en passen dit toe in ons leven. Met leuke werkvormen en spellen leren we nieuwe dingen over God en onszelf.<br />
       <strong>Voor wie?</strong> Jongeren tussen de 12 en 18 jaar die de betekenis van het leven willen ontdekken.<br />
       <strong>Wanneer?</strong> Eén keer in de twee weken op dinsdagavond.<br />
-      <strong>Meer informatie?</strong> Je kunt terecht bij Theo (<a href="tel://+31627004576">06 27004576</a>) en Jessica (<a href="tel://+31630704438">06 30704438</a>).
+      <strong>Meer informatie?</strong> Je kunt terecht bij Theo (<a href="tel://+31627004576">06&nbsp;27004576</a>) en Jessica (<a href="tel://+31630704438">06&nbsp;30704438</a>).
     </p>
 - short: alpha
   title: Alpha
   img: alpha.jpg
+  show_thumbnail: true
   text: |
     <p>Twee keer per jaar organiseren we een Alpha-cursus. Het is een gratis cursus waarin de basis van het christelijk geloof wordt onderzocht in 10 sessies en een weekend. Je maakt op een laagdrempelige manier kennis met het christelijk geloof en Jezus. Het is een open, informele en eerlijke ruimte om samen de grote vragen van het leven te onderzoeken en te bespreken. We starten met een gezamenlijke maaltijd en volgen daarna een interactieve avond met alle ruimte voor vragen.</p>
-    <p>We starten met een introductieavond: Is er meer in het leven? Daar leren we elkaar beter kennen. Voor meer informatie contact Theo (<a href="tel://+31627004576">06 27004576</a> of <a href=" mailto:alpha@cross-culture-nieuwegein.nl">alpha@cross-culture-nieuwegein.nl</a>).</p>
+    <p>We starten met een introductieavond: Is er meer in het leven? Daar leren we elkaar beter kennen. Voor meer informatie contact Theo (<a href="tel://+31627004576">06&nbsp;27004576</a> of <a href=" mailto:alpha@cross-culture-nieuwegein.nl">alpha@cross-culture-nieuwegein.nl</a>).</p>
     
     <p>We do the Alpha Course also in English. The Alpha Course is a serious introduction to the Christian faith that invites you to talk about life questions with others in a safe environment only. Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Would you like to join?</p>
 
@@ -73,21 +81,24 @@
 - short: groepsvakantie
   title: Groeps&shy;vakantie
   img: groepsvakantie.jpg
+  show_thumbnail: true
   text: |
     <p>Niet voor iedereen is op vakantie gaan vanzelfsprekend. Of misschien heb je wel zin om eens met wat meer mensen een weekje weg te gaan. Elk jaar (inmiddels al 8 jaar op een rij) gaan we in de zomervakantie met elkaar een midweekje op vakantie.</p>
     <p>Heerlijk om een weekje te ontspannen en om de tijd te hebben om elkaar beter te leren kennen. Naast leuke uitjes (pretpark, sporten, zwemmen, zeskamp, filmavond, etc.) hebben we tijdens die week ook een inspirerend programma, waarin we de tijd nemen voor de diepere vragen van het leven.</p>
-    <p>Wil je ook eens mee? Welkom! Contact: Mark van der Neut (<a href="mailto:mark_neut@hotmail.com">mark_neut@hotmail.com</a>/ <a href="tel://+3137286171">06 37286171</a>)</p>
+    <p>Wil je ook eens mee? Welkom! Contact: Mark van der Neut (<a href="mailto:mark_neut@hotmail.com">mark_neut@hotmail.com</a>/ <a href="tel://+3137286171">06&nbsp;37286171</a>)</p>
 - short: sport
   title: Sport&shy;community
   img: sport.jpg
+  show_thumbnail: true
   text: |
     <p><strong>Wat doen we?</strong> Heerlijk samen sporten door te voetballen of te volleyballen of welke andere leuke sport jij in teamverband wilt doen! Daarnaast doen we natuurlijk onze inspiratie op door gezellig bij iemand thuis sportwedstrijden te kijken. Champions League, Olympische Spelen, etc.<br />
     <strong>Voor wie?</strong> Iedereen! Neem gerust je buren, vrienden en familie mee!<br />
     <strong>Wanneer?</strong>Vaak spreken we spontaan af voor een partijtje voetbal. Soms doen we mee aan een toernooi. Op dit moment (winter ’22 / ’23) sporten we elke donderdag avond in een gymzaal, samen met een groep vluchtelingen die op de boot in Nieuwegein opgevangen worden.<br />
-    <strong>Wil je meedoen?</strong> Contact Theo (<a href="tel://+31627004576">06 27004576</a>). Daarnaast worden spontane ideeën in de Family- en News-WhatsAppgroepen van Cross Culture gedeeld.</p>
+    <strong>Wil je meedoen?</strong> Contact Theo (<a href="tel://+31627004576">06&nbsp;27004576</a>). Daarnaast worden spontane ideeën in de Family- en News-WhatsAppgroepen van Cross Culture gedeeld.</p>
 - short: muziek
   title: Muziek&shy;community
   img: muziek.jpg
+  show_thumbnail: true
   text: |
     We zingen samen, bespelen verschillende instrumenten, studeren een nieuw lied in of geven onze stem allerlei oefeningen. 
     Soms gaan we naar een concert of inspireren we elkaar door elkaar nieuwe muziek te laten luisteren. 
@@ -97,34 +108,39 @@
 - short: sisters
   title: Cross Culture Sisters
   img: sisters.jpg
+  show_thumbnail: true
   text: |
     <p><strong>Wat doen we?</strong> Als vrouwen ontmoeten we elkaar rondom allerlei verschillende activiteiten. We kunnen bijvoorbeeld picknicken, creatief zijn, luisteren naar sprekers of gezellig thee en koffie drinken. Daarnaast komt er twee keer in het jaar een speciale Ladiesnight.<br>
     <strong>Voor wie?</strong> Alle vrouwen (20+) van Cross Culture.<br>
     <strong>Wanneer?</strong> Ongeveer één keer in de maand.<br>
-    <strong>Meer informatie?</strong> Het Cross Culture Sisters team: Debbie Sieders en Constance Spies (<a href="tel://+31306062408">030 6062408</a>).</p>
+    <strong>Meer informatie?</strong> Het Cross Culture Sisters team: Debbie Sieders en Constance Spies (<a href="tel://+31306062408">030&nbsp;6062408</a>).</p>
 - short: biblestudy
   title: Biblestudy communities
   img: huisgroepen.jpg
+  show_thumbnail: true
   text: |
     <p><strong>Wat doen we?</strong> Elkaar ontmoeten en samen bidden, lezen en leren uit de Bijbel.<br>
     <strong>Voor wie?</strong> Voor mannen of vrouwen uit Cross Culture. Er worden verschillende mannen- en vrouwengroepen gemaakt. Er zijn zowel Nederlandstalige als Engelstalige groepen. Omdat deze groepen vaak wat kleiner zijn en er persoonlijke gesprekken gevoerd worden, vragen deze communities om een commitment voor het seizoen (oktober tot april).<br>
     <strong>Wanneer?</strong> In overleg met de groep wordt bepaald hoe vaak je samenkomt.<br>
-    <strong>Meer informatie?</strong> Je kunt terecht bij Linda Muilwijk (<a href="tel://+31613204496">06 13204496</a>).</p>
+    <strong>Meer informatie?</strong> Je kunt terecht bij Linda Muilwijk (<a href="tel://+31613204496">06&nbsp;13204496</a>).</p>
     <p>Voel je vrij om eens bij een van deze communities te komen kijken. Je mag natuurlijk ook altijd bij meerdere communities tegelijk betrokken zijn!</p>
 - short: evenementen
   title: Evenementen
   img: christmas.jpg
+  show_thumbnail: true
   text: >
     <p>Samen feesten vieren vinden we belangrijk. We delen graag in onze feestvreugde! Rondom de christelijke feestdagen organiseren we daarom diverse evenementen. Met <em>Pasen</em> (het belangrijkste feest van het christendom) doen we een outreach om op een creatieve manier te vieren dat Jezus leeft. Met kerst is onze ‘<em>Cross Culture Christmas</em>’ inmiddels een begrip geworden. Hét event om op een bijzondere manier als Gods familie kerst te vieren. Voor meer dan honderd mensen verzorgen we een gratis kerstdiner voor iedereen die dat wilt. Vrienden, familie, buren: iedereen is welkom!</p>
 - short: eten
   title: Eten redden en uitdelen
   img: eten-uitdelen.jpg
+  show_thumbnail: true
   text: |
     <p>Verschillende supermarkten, een bakker en een groothandel in groente en fruit in de buurt zijn genoodzaakt om eten weg te gooien wat niet meer verkocht kan worden. Vaak vanwege de houdbaarheidsdata of beschadigde verpakkingen. Dit eten is nog goed, het is toch sonde (of zonde?) om dit weg te gooien terwijl er in ons netwerk veel mensen zijn die moeite hebben om rond te komen. Nadat een aantal mensen jarenlang als ‘dumpsterdivers’ / ‘skippers’ dit eten ging redden uit de vuilnisbak hebben we nu een ‘ophaaldeal’ gesloten: we mogen de boodschappen ophalen en uitdelen aan mensen die dit nodig hebben.</p>
-    <p>Er zijn daarvoor twee vaste uitdeelpunten (bij onze woongroepen, zie hier onder voor de adressen en contactgegevens). Er is ook een -alleen-lezen- whatsappgroep met alle updates over het eten. Wil je je daarvoor aanmelden? Contact Rob Hoegée (<a href="tel://+31611989698">06 11989698</a>).</p>
+    <p>Er zijn daarvoor twee vaste uitdeelpunten (bij onze woongroepen, zie hier onder voor de adressen en contactgegevens). Er is ook een -alleen-lezen- whatsappgroep met alle updates over het eten. Wil je je daarvoor aanmelden? Contact Rob Hoegée (<a href="tel://+31611989698">06&nbsp;11989698</a>).</p>
 - short: men
   title: De Strijders/ Men's group
   img: mens.jpg
+  show_thumbnail: true
   text: |
     Deze groep bestaat alleen uit mannen. 
     Ook wel eens fijn. 
@@ -133,4 +149,4 @@
     Het doel is om elkaar tot steun te zijn, èn samen vrijheid te zoeken van verslaving van pornografie. 
     We willen niet dat het een negatief effect heeft op ons leven en we willen hier ook niet in ons eentje mee blijven rondlopen. 
     We volgen een programma dat richting geeft aan de samenkomsten. 
-    Misschien is de groep ook wel iets voor jou? Jaron leidt de groep, je kan hem appen of bellen op <a href="tel://+31610475952">0610475952</a> of mailen naar <a href="jaronjongeneel@hotmail.com">jaronjongeneel@hotmail.com</a>.
+    Misschien is de groep ook wel iets voor jou? Jaron leidt de groep, je kan hem appen of bellen op <a href="tel://+31610475952">06&nbsp;10475952</a> of mailen naar <a href="jaronjongeneel@hotmail.com">jaronjongeneel@hotmail.com</a>.
