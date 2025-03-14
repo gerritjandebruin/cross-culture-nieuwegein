@@ -7,3 +7,7 @@
 - Git commit
 - Sync de back-up op nieuw-engeland
 - Sync met WinSCP naar cross-culture-nieuwegein.nl via FTP
+
+# Updates
+`bundle update --bundler`
+`bundle update`
