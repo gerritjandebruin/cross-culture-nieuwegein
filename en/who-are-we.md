@@ -2,7 +2,7 @@
 title: Who are we?
 lang: en
 lang-link: wie-zijn-wij
-last_modified_at: 2025-02-15
+last_modified_at: 2025-03-14
 canonical_url: "https://cross-culture-nieuwegein.nl/en/who-are-we.html"
 ---
 We are a group of young and old people with different nationalities. We meet each other with the purpose of getting to know each other and Jesus (better) and following him in our city, Nieuwegein. We meet every Sunday for the CC-Meeting. Then we celebrate that we are one in Christ by eating together, singing, praying and listening to God’s Word. In addition, we meet in a casual way at home, through bible study groups, alpha courses or in other ways.
@@ -115,6 +115,6 @@ In Nieuwegein about 25% of inhabitants are immigrants. Many of them are Christia
 
 <h1 id="counselors">Code of Conduct</h1>
 
-Helma (<helma.vanderneut@gmail.com> / [06 28637662](tel:+31628637662)) and Mark van der Neut (<mark_neut@hotmail.com> / [06 37286171](tel+31637286171)) are confidential advisers for Cross Culture Nieuwegein. You can contact them with questions, suspicions and reports of transgressive behavior within Cross Culture. You can contact them in the case you experienced undesirable behavior. This includes discrimination, physical and psychological violence or bullying. You can also contact a counselor if you suspect irregularities with money. These counselors work confidential unless they hear about a serious crime (in which case repetition is expected). They are a listening ear and advise you on what to do next.
+Helma (<helma.vanderneut@gmail.com> / [06 28637662](tel:+31628637662)) and Mark van der Neut (<mark_neut@hotmail.com> / [06 37286171](tel:+31637286171)) are confidential advisers for Cross Culture Nieuwegein. You can contact them with questions, suspicions and reports of transgressive behavior within Cross Culture. You can contact them in the case you experienced undesirable behavior. This includes discrimination, physical and psychological violence or bullying. You can also contact a counselor if you suspect irregularities with money. These counselors work confidential unless they hear about a serious crime (in which case repetition is expected). They are a listening ear and advise you on what to do next.
 
 More information about the confidential advisers and our code of conduct can be found <a href="../assets/doc/veiligheid.pdf" download>here</a> (Dutch, use e.g. Google Translate).
