@@ -8,9 +8,5 @@ _site/
 .bundle/
 vendor/
 
-# Assets
-assets/doc
-assets/img
-
 # Secrets
 .env
