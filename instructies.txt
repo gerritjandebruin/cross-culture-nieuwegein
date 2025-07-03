@@ -8,6 +8,8 @@
 - Sync de back-up op nieuw-engeland
 - Sync met WinSCP naar cross-culture-nieuwegein.nl via FTP
 
+Een alternatief is het werken met Github Codespaces.
+
 # Updates
 `bundle update --bundler`
 `bundle update`
