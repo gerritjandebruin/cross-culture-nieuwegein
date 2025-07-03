@@ -8,16 +8,24 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
+    outputs:
+      site-built: ${{ steps.build-site.outcome }}
     steps:
     - uses: actions/checkout@v4
     - name: Build the site in the jekyll/builder container
+      id: build-site
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+    - uses: actions/checkout@v4
     - name: Deploy to FTP
       uses: SamKirkland/FTP-Deploy-Action@v4
       with:
@@ -26,3 +34,4 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./_site
         server-dir: ${{ secrets.FTP_SERVER_DIR }}
+        protocol: ftps
