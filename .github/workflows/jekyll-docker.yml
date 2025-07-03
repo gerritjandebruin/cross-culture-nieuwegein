@@ -23,6 +23,11 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+    - name: Upload _site artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: site
+        path: _site
 
   deploy:
     needs: build
@@ -30,6 +35,11 @@ jobs:
     if: github.ref == 'refs/heads/main'
     steps:
     - uses: actions/checkout@v4
+    - name: Download _site artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: site
+        path: _site
     - name: Deploy to FTP
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
