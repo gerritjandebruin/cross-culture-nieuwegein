@@ -20,7 +20,7 @@ We are a group of young and old people with different nationalities. We meet eac
     <div class="carousel-item active">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="../assets/img/dirk.jpg" class="rounded"/></div>
+                <div class="col-12 col-sm-3"><img src=".assets/img/dirk.jpg" class="rounded"/></div>
                 <div class="col-12 col-sm-9"><p>"Cross Culture started out of necessity. We met many migrants in Nieuwegein, often with a Christian background, who could not find a "spiritual home" anywhere. The audience in Cross Culture is enormously diverse: one visitor comes from the Syrian Orthodox tradition, another from an Angolan Pentecostal church - to name just a few extremes. Everyone can keep their individuality. And yet we are also one together. It really is a beautiful place, multicolored, warm and open, a home for people from all cultures!" - <strong>Dirk de Bree</strong></p></div>
             </div>
         </div>
@@ -28,7 +28,7 @@ We are a group of young and old people with different nationalities. We meet eac
     <div class="carousel-item">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="../assets/img/judy.jpg" class="rounded"/></div>
+                <div class="col-12 col-sm-3"><img src=".assets/img/judy.jpg" class="rounded"/></div>
                 <div class="col-12 col-sm-9"><p>"I met somebody from Cross Culture on the football pitch. Immediately I experienced that this encounter was an answer from God to my questions. My heart spoke. Often, I was restless and lonely and tried to suppress that restlessness. That did not work out. But now God has taught me to find peace and tranquility with Him. He has now become my Father. I can no longer go to church without my brothers and sisters. I look no longer to my circumstances alone, the difficulties, but I put my life in the hands of Jesus. My second name is Ruth. I experience that as no coincidence. Ruth came from a different country but still started serving the God of the new country." - <strong>Judy Kamande</strong></p></div>
             </div>
         </div>
@@ -49,7 +49,7 @@ We are a group of young and old people with different nationalities. We meet eac
 # Multicultural & Intercultural
 We are a multicultural church. Christians from all cultures and from different churches are welcome. The native language is Dutch, but often it is translated or you can speak people in your own language. We sing songs from different cultures and traditions.
 
-![](../assets/img/wie-zijn-wij.jpg)
+![](.assets/img/wie-zijn-wij.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ In Nieuwegein about 25% of inhabitants are immigrants. Many of them are Christia
 
 Helma (<helma.vanderneut@gmail.com> / [06 28637662](tel:+31628637662)) and Mark van der Neut (<mark_neut@hotmail.com> / [06 37286171](tel+31637286171)) are confidential advisers for Cross Culture Nieuwegein. You can contact them with questions, suspicions and reports of transgressive behavior within Cross Culture. You can contact them in the case you experienced undesirable behavior. This includes discrimination, physical and psychological violence or bullying. You can also contact a counselor if you suspect irregularities with money. These counselors work confidential unless they hear about a serious crime (in which case repetition is expected). They are a listening ear and advise you on what to do next.
 
-More information about the confidential advisers and our code of conduct can be found <a href="../assets/doc/veiligheid.pdf" download>here</a> (Dutch, use e.g. Google Translate).
+More information about the confidential advisers and our code of conduct can be found <a href=".assets/doc/veiligheid.pdf" download>here</a> (Dutch, use e.g. Google Translate).

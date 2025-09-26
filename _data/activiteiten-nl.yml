@@ -27,12 +27,12 @@
         <p class="h3">(adres: Handelskade 82)</p>
         <p>Sinds medio 2024 is er een nieuwe woongemeenschap opgericht in Nieuwegein Zuid: Ondersteboven. Momenteel wonen er vijf volwassenen en één kind. Dit aantal zal, na de grondige verbouwingen, toenemen tot elf volwassenen en een onbekend aantal kinderen (wie weet!). We heten Ondersteboven omdat Gods Koninkrijk alles ondersteboven gooit, en daar zijn we enthousiast over. We zijn momenteel een gemeenschapsruimte aan het bouwen die niet alleen voor ons als bewoners is, maar ook voor iedereen in de wijk Zandveld. We hopen dat dit een plek zal zijn van ontmoeting, samen leven en het leven vieren. We bidden elke maandagavond samen van 19:00-19:30. Voor meer informatie, contacteer Jaron: <a href="tel://0031610475952">06&nbsp;10475952</a></p>
         <div class="text-center mb-2">
-          <a class="btn btn-primary" href="./assets/doc/ondersteboven.pdf" download>Wij zoeken nog bewoners!</a>
+          <a class="btn btn-primary" href="assets/doc/ondersteboven.pdf" download>Wij zoeken nog bewoners!</a>
         </div>
       </div>
       <div class="col-3">
         <figure>
-          <img src="./assets/img/ondersteboven.jpg" class="img-thumbnail" alt="Woongroep Ondersteboven">
+          <img src="assets/img/ondersteboven.jpg" class="img-thumbnail" alt="Woongroep Ondersteboven">
           <figcaption>Woongroep Ondersteboven</figcaption>
         </figure>
       </div>
@@ -46,7 +46,7 @@
       </div>
       <div class="col-3">
         <figure>
-          <img src="./assets/img/humus.png" class="img-thumbnail" alt="Woongroep Huize Humus">
+          <img src="assets/img/humus.png" class="img-thumbnail" alt="Woongroep Huize Humus">
           <figcaption>Woongroep Huize Humus</figcaption>
         </figure>
       </div>
@@ -60,7 +60,7 @@
       </div>
       <div class="col-3">
         <figure>
-          <img src="./assets/img/muhaba.jpg" class="img-thumbnail" alt="Woongroep Villa Muhaba">
+          <img src="assets/img/muhaba.jpg" class="img-thumbnail" alt="Woongroep Villa Muhaba">
           <figcaption>Woongroep Villa Muhaba</figcaption>
         </figure>
       </div>
