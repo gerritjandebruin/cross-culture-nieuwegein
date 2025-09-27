@@ -20,7 +20,7 @@ Have a look at the different activities of Cross Culture Nieuwegein!
 We have an Alpha Course in English. The Alpha Course is a serious introduction to the Christian faith that invites you to talk about life questions with others in a safe environment only.
 Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Would you like to join?
 </p>
-<p>More information can be obtained by Theo (<a href="tel://+31627004576">06 27004576</a> or <a href=" mailto:alpha@cross-culture-nieuwegein.nl">alpha@cross-culture-nieuwegein.nl</a>).</p>
+<p>More information can be obtained by Theo (<a href="tel:+31627004576">06 27004576</a> or <a href=" mailto:alpha@cross-culture-nieuwegein.nl">alpha@cross-culture-nieuwegein.nl</a>).</p>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Wou
 <div>
 <p>Throughout the week, we meet in different groups. In these groups, we meet each other, pray together and read the bible. Therefore, we discover what God wants to say and we help each other to apply these words in our lives. We also regularly eat together and help each other where required.</p>
 
-<p>More information via Linda <a href="tel:=31613204496">(0613204496)</a>.</p>
+<p>More information via Linda <a href="tel:+31613204496">(0613204496)</a>.</p>
 </div>
 <div class="right"><img class="activity-image" src="assets/img/huisgroepen.jpg" loading="lazy" alt="Small group Bible study and fellowship meeting in someone's home"></div>
 </div>

@@ -50,7 +50,7 @@ Elke zondagmiddag komen we om 13:00u bij elkaar in de Cross Culture Meeting. Vaa
 <a href="https://goo.gl/maps/8XTYnRHuTD62jS336">Wiersdijk 8b, Nieuwegein</a>
 
 # CONTACT
-Theo Vreugdenhil (<a href="tel://+31627004576">06 27004576</a>)
+Theo Vreugdenhil (<a href="tel:+31627004576">06 27004576</a>)
 
 ------------------------------------------------------------------------------------------------------------------------
 
