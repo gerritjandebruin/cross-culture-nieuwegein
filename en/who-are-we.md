@@ -5,6 +5,9 @@ lang-link: wie-zijn-wij
 last_modified_at: 2025-03-14
 canonical_url: "https://cross-culture-nieuwegein.nl/en/who-are-we.html"
 ---
+<article>
+<section class="intro" aria-labelledby="main-heading">
+<h1 id="main-heading">Who are we?</h1>
 We are a group of young and old people with different nationalities. We meet each other with the purpose of getting to know each other and Jesus (better) and following him in our city, Nieuwegein. We meet every Sunday for the CC-Meeting. Then we celebrate that we are one in Christ by eating together, singing, praying and listening to God’s Word. In addition, we meet in a casual way at home, through bible study groups, alpha courses or in other ways.
 
 *We are a ‘spiritual home’ with all ‘nations’ in Nieuwegein.*
@@ -103,8 +106,10 @@ Biblical education is very important for us: in Bible groups and on Sunday servi
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
+</section>
 
-<h1 id="origin">Origin</h1>
+<section aria-labelledby="origin-heading">
+<h2 id="origin-heading">Origin</h2>
 In December 2011, the first meeting was organized between members of the congregation of Hervormd Vreeswijk (PKN) and immigrant Christians from the network of members of congregation. Soon this meeting (we called it a Cross Culture Meeting) proved to fulfill a need. The first year we met every six weeks, later once a month. Since February 2014 twice a month and from November 2017, we will meet every week on sundays.
 
 It has now become a great platform for Christians and ‘seekers’ from many countries (we have already listed more than 30 countries of origin), with a committed group of about 50 adults and 10 children.
@@ -112,9 +117,13 @@ It has now become a great platform for Christians and ‘seekers’ from many co
 In Nieuwegein about 25% of inhabitants are immigrants. Many of them are Christians. When they come to the Netherlands, often they have no connection with Dutch churches, but they need a church. For them, Cross Culture Nieuwegein is a wonderful place to be able to find a spiritual home in this new country and to be helped to feel home in the Netherlands.
 
 ------------------------------------------------------------------------------------------------------------------------
+</section>
 
-<h1 id="counselors">Code of Conduct</h1>
+<section aria-labelledby="code-conduct-heading">
+<h2 id="code-conduct-heading">Code of Conduct</h2>
 
 Helma (<helma.vanderneut@gmail.com> / [06 28637662](tel:+31628637662)) and Mark van der Neut (<mark_neut@hotmail.com> / [06 37286171](tel+31637286171)) are confidential advisers for Cross Culture Nieuwegein. You can contact them with questions, suspicions and reports of transgressive behavior within Cross Culture. You can contact them in the case you experienced undesirable behavior. This includes discrimination, physical and psychological violence or bullying. You can also contact a counselor if you suspect irregularities with money. These counselors work confidential unless they hear about a serious crime (in which case repetition is expected). They are a listening ear and advise you on what to do next.
 
 More information about the confidential advisers and our code of conduct can be found <a href="assets/doc/veiligheid.pdf" download>here</a> (Dutch, use e.g. Google Translate).
+</section>
+</article>

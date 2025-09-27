@@ -1,25 +1,34 @@
 <footer class="row">
-    <div class="col-12 col-sm-4 p-4">
-        <h1>{{ site.data.translations['Locatie'][page.lang] }}</h1>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9822.935653505323!2d5.0937893!3d52.0117264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7c55dfa9604ddd4!2sCross+Culture+Nieuwegein!5e0!3m2!1sen!2snl!4v1543154682307" frameborder="0" style="border:0;width:100%;" allowfullscreen title="Google Maps location of Cross Culture Nieuwegein at Wiersdijk 8B, Nieuwegein"></iframe>
-        <img src="assets/img/gebouw.jpg" class="my-2" loading="lazy" alt="Cross Culture Nieuwegein kerkgebouw aan de Wiersdijk in Nieuwegein" />
-    </div>
-    <div class="col-12 col-sm-4 footer-links p-4">
-        <h1>Contact</h1>
+    <section class="col-12 col-sm-4 p-4" aria-labelledby="location-heading">
+        <h2 id="location-heading">{{ site.data.translations['Locatie'][page.lang] }}</h2>
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9822.935653505323!2d5.0937893!3d52.0117264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7c55dfa9604ddd4!2sCross+Culture+Nieuwegein!5e0!3m2!1sen!2snl!4v1543154682307"
+            frameborder="0" style="border:0;width:100%;" allowfullscreen
+            title="Google Maps location of Cross Culture Nieuwegein at Wiersdijk 8B, Nieuwegein"></iframe>
+        <img src="assets/img/gebouw.jpg" class="my-2" loading="lazy"
+            alt="Cross Culture Nieuwegein kerkgebouw aan de Wiersdijk in Nieuwegein" />
+    </section>
+    <section class="col-12 col-sm-4 footer-links p-4" aria-labelledby="contact-heading">
+        <h2 id="contact-heading">Contact</h2>
         <p><i class="bi bi-telephone"></i> <a href="tel:+31627004576">06 27004576</a></p>
-        <p><i class="bi bi-envelope"></i> <a href="mailto:info@cross-culture-nieuwegein.nl">info@cross-culture-nieuwegein.nl</a></p>
-        <p><i class="bi bi-facebook"></i> <a href="https://facebook.com/crossculturenieuwegein/">crossculturenieuwegein</a></p>
+        <p><i class="bi bi-envelope"></i> <a
+                href="mailto:info@cross-culture-nieuwegein.nl">info@cross-culture-nieuwegein.nl</a></p>
+        <p><i class="bi bi-facebook"></i> <a
+                href="https://facebook.com/crossculturenieuwegein/">crossculturenieuwegein</a></p>
         <p><i class="bi bi-youtube"></i> <a href="https://www.youtube.com/channel/UCHdJK56_33itUt6AJO0udBg/videos"">Youtube kanaal</a></p>
-    </div>
-    <div class="col-12 col-sm-4 p-4">
-        <h1>{{ site.data.translations['Steun'][page.lang] }}</h1>
-        <p class="my-0">{{ site.data.translations['Steun_lang'][page.lang] }}</p>
-        <a href="https://paymentlink.mollie.com/payment/X17pinvgaouYQY8tUYYbA/" target="_blank"><button type="button" class="btn btn-primary my-3">iDeal</button></a>
-        <p class="my-1">{{ site.data.translations['ANBI'][page.lang] }}</p>
-        <p class="text-secondary my-0">{{ site.data.translations['Naam'][page.lang] }} ANBI: Hervormde Gemeente Vreeswijk</p>
-        <p class="text-secondary my-0">RSIN: 8067.74.824</p>
-    </div>
-        <a href="https://wa.me/31627004576?text=Hoi%20Theo!%20Ik%20heb%20een%20vraag%20over" class="float" target="_blank">
-            <i class="bi bi-whatsapp"></i>
-        </a>
-    </footer>
+    </section>
+    <section class=" col-12 col-sm-4 p-4" aria-labelledby="support-heading">
+                <h2 id="support-heading">{{ site.data.translations['Steun'][page.lang] }}</h2>
+                <p class="my-0">{{ site.data.translations['Steun_lang'][page.lang] }}</p>
+                <a href="https://paymentlink.mollie.com/payment/X17pinvgaouYQY8tUYYbA/" target="_blank"><button
+                        type="button" class="btn btn-primary my-3">iDeal</button></a>
+                <p class="my-1">{{ site.data.translations['ANBI'][page.lang] }}</p>
+                <p class="text-secondary my-0">{{ site.data.translations['Naam'][page.lang] }} ANBI: Hervormde Gemeente
+                    Vreeswijk</p>
+                <p class="text-secondary my-0">RSIN: 8067.74.824</p>
+    </section>
+    <a href="https://wa.me/31627004576?text=Hoi%20Theo!%20Ik%20heb%20een%20vraag%20over" class="float" target="_blank"
+        aria-label="Contact via WhatsApp">
+        <i class="bi bi-whatsapp"></i>
+    </a>
+</footer>

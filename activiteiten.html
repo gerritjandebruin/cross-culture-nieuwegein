@@ -5,30 +5,44 @@ lang-link: activities
 last_modified_at: 2025-03-18
 canonical_url: "https://cross-culture-nieuwegein.nl/activiteiten.html"
 ---
-Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuwegein!
+<article>
+  <section class="intro" aria-labelledby="activities-intro">
+    <h1 id="activities-intro">Activiteiten van Cross Culture Nieuwegein</h1>
+    <p>Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuwegein!</p>
+  </section>
 
-<div class="row row-cols-1 row-cols-md-4 g-2">
-  {% for activity in site.data.activiteiten-nl %}
-    <div class="col">
-      <div class="card h-100 ratio ratio-1x1">
-        <img src="assets/img/{{activity.img}}" class="card-img-top" alt="{{activity.title}}" loading="lazy">
-        <div class="card-img-overlay activity-card-overlay"><h1 class="card-title activity-card-title">{{activity.title}}</h1></div>
-        <a href="#{{activity.short}}" class="stretched-link"></a>
+  <section class="activity-grid" aria-label="Overzicht van activiteiten">
+    <h2 class="visually-hidden">Activiteitenoverzicht</h2>
+
+    <div class="row row-cols-1 row-cols-md-4 g-2">
+      {% for activity in site.data.activiteiten-nl %}
+      <div class="col">
+        <div class="card h-100 ratio ratio-1x1">
+          <img src="assets/img/{{activity.img}}" class="card-img-top" alt="{{activity.title}}" loading="lazy">
+          <div class="card-img-overlay activity-card-overlay">
+            <h3 class="card-title activity-card-title">{{activity.title}}</h3>
+          </div>
+          <a href="#{{activity.short}}" class="stretched-link"></a>
+        </div>
       </div>
+      {% endfor %}
     </div>
-  {% endfor %}
-</div>
+  </section>
 
-<hr class="my-1 my-sm-3" />
-  {% for activity in site.data.activiteiten-nl %}
+  <section class="activity-details" aria-label="Gedetailleerde activiteitbeschrijvingen">
+    <hr class="my-1 my-sm-3" />
+    {% for activity in site.data.activiteiten-nl %}
     <div class="row align-items-center">
       <div class="{% if activity.show_thumbnail %}col-9{% else %}col-12{% endif %}">
-        <h1 id="{{activity.short}}" >{{activity.title}}</h1>
+        <h2 id="{{activity.short}}">{{activity.title}}</h2>
         <div style="text-align: left">{{activity.text}}</div>
       </div>
       {% if activity.show_thumbnail %}
-      <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}" loading="lazy"/></div>
+      <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"
+          loading="lazy" /></div>
       {% endif %}
     </div>
-  <hr />
-  {% endfor %}
+    <hr />
+    {% endfor %}
+  </section>
+</article>
