@@ -40,7 +40,7 @@ og_image_alt: "Mensen van diverse culturen tijdens Cross Culture Meeting met ete
     <div class="row align-items-center">
       <div class="{% if activity.show_thumbnail %}col-9{% else %}col-12{% endif %}">
         <h2 id="{{activity.short}}">{{activity.title}}</h2>
-        <div style="text-align: left">{{activity.text}}</div>
+        <div class="text-start">{{activity.text}}</div>
       </div>
       {% if activity.show_thumbnail %}
       <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"

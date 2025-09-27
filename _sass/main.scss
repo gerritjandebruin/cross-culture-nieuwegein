@@ -131,3 +131,31 @@ ul.compact {
         background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(0,0,0,0.5));
     }
 }
+
+/* Activity images styling */
+.activity-image {
+    max-width: 300px;
+    height: auto;
+}
+
+/* Google Maps iframe height */
+.google-maps-iframe {
+    height: 200px;
+}
+
+/* Responsive adjustments for activity images */
+@media (max-width: 768px) {
+    .activity-image {
+        max-width: 250px;
+    }
+}
+
+@media (max-width: 576px) {
+    .activity-image {
+        max-width: 100%;
+    }
+    
+    .google-maps-iframe {
+        height: 150px;
+    }
+}

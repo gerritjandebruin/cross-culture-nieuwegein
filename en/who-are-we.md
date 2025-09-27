@@ -52,7 +52,7 @@ We are a group of young and old people with different nationalities. We meet eac
   </button>
 </div>
 
-<hr style="margin-top: 60px;" />
+<hr class="mt-5" />
 
 # Multicultural & Intercultural
 We are a multicultural church. Christians from all cultures and from different churches are welcome. The native language is Dutch, but often it is translated or you can speak people in your own language. We sing songs from different cultures and traditions.

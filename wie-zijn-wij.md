@@ -51,7 +51,7 @@ Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten.
   </button>
 </div>
 
-<hr style="margin-top: 60px;" />
+<hr class="mt-5" />
 
 # Intercultureel en interkerkelijk
 Wij zijn een interculturele kerk. Christenen uit allerlei culturen en afkomstig uit verschillende kerkelijke stromingen zijn welkom. Maar ook mensen met andere levensovertuigingen zijn van harte welkom. Vanwege de verschillende achtergronden zingen we liederen uit allerlei culturen en tradities en is er alle ruimte voor mensen om in hun eigen taal te lezen of te bidden. De voertaal van onze activiteiten is voornamelijk Nederlands, maar vaak is vertaling beschikbaar.
