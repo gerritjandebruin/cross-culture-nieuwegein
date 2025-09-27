@@ -4,9 +4,44 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "assets/img"
+    values:
+      layout: null
+  - scope:
+      path: "assets/css"
+    values:
+      layout: null
+  - scope:
+      path: "assets/doc"
+    values:
+      layout: null
+
 plugins:
   - jekyll-sitemap
+
+# Performance optimizations
+incremental: true
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# Static file optimization
+sass:
+  style: compressed
+  sourcemap: never
+
 exclude:
   - upload.sh
   - .env
   - .env.*
+  - node_modules/
+  - vendor/
+  - .bundle/
+  - .git/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
