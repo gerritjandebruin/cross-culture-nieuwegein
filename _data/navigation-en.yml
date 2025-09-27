@@ -1,10 +1,10 @@
 - name: Welcome!
-  link: /en/
+  link: ./en/
 - name: Who are we?
-  link: /en/who-are-we.html
+  link: ./en/who-are-we.html
 - name: Activities
-  link: /en/activities.html
+  link: ./en/activities.html
 - name: Partners
-  link: /en/partners.html
+  link: ./en/partners.html
 - name: Contact
-  link: /en/contact.html
+  link: ./en/contact.html
