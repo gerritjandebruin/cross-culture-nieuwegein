@@ -1,2 +1,31 @@
-<link rel="alternate" hreflang="{% if page.lang == 'nl' %}en{% else %}nl{%endif%}">
+<!-- SEO Meta Tags -->
+<meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: 'Cross Culture Nieuwegein - Een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. Iedereen is welkom!' }}{% endif %}">
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}Cross Culture Nieuwegein, kerk, multicultureel, Nieuwegein, christelijk, gemeenschap, activiteiten, eredienst, Alpha cursus{% endif %}">
+<meta name="author" content="Cross Culture Nieuwegein">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: 'Cross Culture Nieuwegein - Een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. Iedereen is welkom!' }}{% endif %}">
+<meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.canonical_url | default: site.url }}{{ page.url }}">
+<meta property="og:site_name" content="Cross Culture Nieuwegein">
+<meta property="og:image" content="{% if page.og_image %}{{ site.url }}/{{ page.og_image }}{% else %}{{ site.url }}/assets/img/slideshow1.jpg{% endif %}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="{% if page.lang == 'nl' %}nl_NL{% else %}en_US{% endif %}">
+{% if page.lang_link %}<meta property="og:locale:alternate" content="{% if page.lang == 'nl' %}en_US{% else %}nl_NL{% endif %}">{% endif %}
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: 'Cross Culture Nieuwegein - Een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. Iedereen is welkom!' }}{% endif %}">
+<meta name="twitter:image" content="{% if page.og_image %}{{ site.url }}/{{ page.og_image }}{% else %}{{ site.url }}/assets/img/slideshow1.jpg{% endif %}">
+<meta name="twitter:image:alt" content="{% if page.og_image_alt %}{{ page.og_image_alt }}{% else %}Cross Culture Nieuwegein gemeenschap tijdens een bijeenkomst{% endif %}">
+
+<!-- Additional Meta Tags -->
+<meta name="theme-color" content="#fe943e">
+<meta name="msapplication-TileColor" content="#fe943e">
+
+<link rel="alternate" hreflang="{% if page.lang == 'nl' %}en{% else %}nl{% endif %}" href="{% if page.lang == 'nl' %}{{ site.url }}/en/{% if page.lang_link %}{{ page.lang_link }}.html{% endif %}{% else %}{{ site.url }}/{% if page.lang_link %}{{ page.lang_link }}.html{% endif %}{% endif %}">
 <link rel="canonical" href="{{ page.canonical_url }}">

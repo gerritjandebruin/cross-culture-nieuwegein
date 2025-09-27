@@ -4,6 +4,11 @@ lang: nl
 lang-link: who-are-we
 last_modified_at: 2025-02-15
 canonical_url: "https://cross-culture-nieuwegein.nl/wie-zijn-wij.html"
+description: "Leer Cross Culture Nieuwegein kennen - een groep mensen van jong en oud met verschillende nationaliteiten. Ontdek onze geschiedenis, missie en vertrouwenspersonen."
+keywords: "wie zijn wij Cross Culture, geschiedenis, ontstaan, multicultureel, Nieuwegein, Dirk de Bree, Judy Kamande, vertrouwenspersonen, gedragscode"
+og_type: "website"
+og_image: "assets/img/slideshow2.jpg"
+og_image_alt: "Mensen van verschillende culturen samen in Cross Culture Nieuwegein"
 ---
 Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten. Wij ontmoeten elkaar met het doel om elkaar en Jezus (beter) te leren kennen en hem te volgen in onze stad, Nieuwegein. We ontmoeten elkaar elke zondag in de Cross Culture Meeting. Daar vieren we dat we één zijn in Christus door samen te eten, te zingen, te bidden en te luisteren naar Gods Woord. Daarnaast worden door de week heen verschillende activiteiten georganiseerd, waarin we elkaar ontmoeten, betrokken raken op elkaars leven en iets van God kunnen leren. Hierover kan je (hier)[activiteiten] lezen.
 

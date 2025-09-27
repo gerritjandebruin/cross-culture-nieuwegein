@@ -1,4 +1,8 @@
 url: "https://cross-culture-nieuwegein.nl"
+title: "Cross Culture Nieuwegein"
+description: "Cross Culture Nieuwegein - Een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. Iedereen is welkom!"
+author: "Cross Culture Nieuwegein"
+
 defaults:
   - scope:
       path: ""

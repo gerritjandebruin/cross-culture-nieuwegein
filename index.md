@@ -4,6 +4,11 @@ lang: nl
 lang-link:
 last_modified_at: 2025-01-05
 canonical_url: "https://cross-culture-nieuwegein.nl"
+description: "Cross Culture Nieuwegein - Een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. Iedereen is welkom bij onze zondagse bijeenkomsten!"
+keywords: "Cross Culture Nieuwegein, kerk, multicultureel, Nieuwegein, christelijk, gemeenschap, eredienst, zondag, Alpha cursus, activiteiten"
+og_type: "website"
+og_image: "assets/img/slideshow1.jpg"
+og_image_alt: "Cross Culture Nieuwegein gemeenschap tijdens een bijeenkomst"
 ---
 
 We zijn een warme, kleurrijke kerk in Nieuwegein met mensen van allerlei culturen. 

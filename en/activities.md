@@ -4,6 +4,11 @@ lang: en
 lang-link: activiteiten
 last_modified_at: 2025-02-15
 canonical_url: "https://cross-culture-nieuwegein.nl/en/activities.html"
+description: "Discover all activities at Cross Culture Nieuwegein: Alpha course, house groups, practical help, kids program, group vacation and more!"
+keywords: "activities Cross Culture Nieuwegein, Alpha course, house groups, practical help, kids program, group vacation, teenagers, Christmas celebration"
+og_type: "website"
+og_image: "assets/img/cc-meeting1.jpg"
+og_image_alt: "People from diverse cultures gathering for Cross Culture Sunday meeting with food and fellowship"
 ---
 Have a look at the different activities of Cross Culture Nieuwegein!
 

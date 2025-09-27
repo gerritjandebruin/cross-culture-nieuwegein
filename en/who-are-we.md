@@ -4,6 +4,11 @@ lang: en
 lang-link: wie-zijn-wij
 last_modified_at: 2025-03-14
 canonical_url: "https://cross-culture-nieuwegein.nl/en/who-are-we.html"
+description: "Get to know Cross Culture Nieuwegein - a group of people, young and old, from different nationalities. Discover our history, mission and counselors."
+keywords: "who are we Cross Culture, history, origin, multicultural, Nieuwegein, Dirk de Bree, Judy Kamande, counselors, code of conduct"
+og_type: "website"
+og_image: "assets/img/slideshow2.jpg"
+og_image_alt: "People from different cultures together at Cross Culture Nieuwegein"
 ---
 <article>
 <section class="intro" aria-labelledby="main-heading">
