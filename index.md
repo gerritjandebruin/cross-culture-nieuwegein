@@ -15,13 +15,13 @@ Iedereen is welkom, of je nu wel christen bent of niet. We willen je graag ontmo
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/slideshow1.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/img/slideshow1.jpg" alt="Cross Culture Nieuwegein gemeenschap tijdens een bijeenkomst">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/slideshow2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="assets/img/slideshow2.jpg" alt="Mensen van verschillende culturen samen in Cross Culture Nieuwegein">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/slideshow3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="assets/img/slideshow3.jpg" alt="Cross Culture activiteiten en gemeenschapsleven in Nieuwegein">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

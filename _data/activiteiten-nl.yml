@@ -46,7 +46,7 @@
       </div>
       <div class="col-3">
         <figure>
-          <img src="assets/img/humus.png" class="img-thumbnail" alt="Woongroep Huize Humus">
+          <img src="assets/img/humus.png" class="img-thumbnail" alt="Woongroep Huize Humus" loading="lazy">
           <figcaption>Woongroep Huize Humus</figcaption>
         </figure>
       </div>
@@ -60,7 +60,7 @@
       </div>
       <div class="col-3">
         <figure>
-          <img src="assets/img/muhaba.jpg" class="img-thumbnail" alt="Woongroep Villa Muhaba">
+          <img src="assets/img/muhaba.jpg" class="img-thumbnail" alt="Woongroep Villa Muhaba" loading="lazy">
           <figcaption>Woongroep Villa Muhaba</figcaption>
         </figure>
       </div>
