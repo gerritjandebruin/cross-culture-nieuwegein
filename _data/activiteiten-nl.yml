@@ -32,7 +32,7 @@
       </div>
       <div class="col-3">
         <figure>
-          <img src="assets/img/ondersteboven.jpg" class="img-thumbnail" alt="Woongroep Ondersteboven">
+          <img src="assets/img/ondersteboven.jpg" class="img-thumbnail" alt="Woongroep Ondersteboven" loading="lazy">
           <figcaption>Woongroep Ondersteboven</figcaption>
         </figure>
       </div>

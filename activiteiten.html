@@ -11,7 +11,7 @@ Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuweg
   {% for activity in site.data.activiteiten-nl %}
     <div class="col">
       <div class="card text-bg-dark h-100 ratio ratio-1x1">
-        <img src="assets/img/{{activity.img}}" class="card-img-top" alt="{{activity.title}}">
+        <img src="assets/img/{{activity.img}}" class="card-img-top" alt="{{activity.title}}" loading="lazy">
         <div class="card-img-overlay"><h1 class="card-title" style="font-size: 1.4rem; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">{{activity.title}}</h1></div>
         <a href="#{{activity.short}}" class="stretched-link"></a>
       </div>
@@ -27,7 +27,7 @@ Neem eens een kijkje bij de verschillende activiteiten van Cross Culture Nieuweg
         <div style="text-align: left">{{activity.text}}</div>
       </div>
       {% if activity.show_thumbnail %}
-      <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"/></div>
+      <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}" loading="lazy"/></div>
       {% endif %}
     </div>
   <hr />

@@ -22,7 +22,7 @@ Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten.
     <div class="carousel-item active">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="assets/img/judy.jpg" class="rounded" alt="Judy Kamande"/></div>
+                <div class="col-12 col-sm-3"><img src="assets/img/judy.jpg" class="rounded" alt="Judy Kamande" loading="lazy"/></div>
                 <div class="col-12 col-sm-9"><p>‘Ik ontmoette op het voetbalveld iemand van Cross Culture. Meteen ervoer ik dat deze ontmoeting een antwoord van God was op mijn vragen en mijn hart toesprak. Ik was vaak onrustig een eenzaam en probeerde die onrust te onderdrukken. Dat lukte me niet. Maar nu heeft God me geleerd om bij Hem vrede en rust te vinden. Hij is nu mijn Vader geworden. En ik kan niet meer zonder mijn broers en zussen in de kerk. Ik kijk nu niet meer naar mijn omstandigheden alleen, de moeilijkheden, maar ik leg mijn leven in de handen van Jezus. Mijn tweede doopnaam is Ruth. Dat ervaar ik als niet toevallig. Ruth kwam uit een ander land maar ging toch de God van het nieuwe land dienen...’ - <strong>Judy Kamande</strong></p></div>
             </div>
         </div>
@@ -30,7 +30,7 @@ Wij vormen een groep mensen, van jong en oud, met verschillende nationaliteiten.
     <div class="carousel-item">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-3"><img src="assets/img/dirk.jpg" class="rounded"/></div>
+                <div class="col-12 col-sm-3"><img src="assets/img/dirk.jpg" class="rounded" loading="lazy" alt="Dirk de Bree"/></div>
                 <div class="col-12 col-sm-9"><p>‘Cross Culture is uit de nood geboren. We ontmoetten in Nieuwegein veel migranten, vaak met een christelijke achtergrond, die nergens een ‘geestelijk thuis’ vonden. Het publiek in Cross Culture is enorm divers: de ene bezoeker komt uit de Syrisch-Orthodoxe traditie, een ander uit een Angolese Pinksterkerk – om maar even een paar uitersten te noemen. Iedereen mag zijn eigenheid bewaren. En toch zijn we ook samen één. Het is echt een prachtige plek, veelkleurig, warm en open, een thuis voor mensen uit alle culturen!’ - <strong>Dirk de Bree</strong></p></div>
             </div>
         </div>

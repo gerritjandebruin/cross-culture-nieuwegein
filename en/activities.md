@@ -23,7 +23,7 @@ Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Wou
 
 # CC-Meetings
 <div class="flex-container">
-<div class="left"><img class="img-thumbnail" src="assets/img/cc-meeting1.jpg" style="max-width: 300px" /></div>
+<div class="left"><img class="img-thumbnail" src="assets/img/cc-meeting1.jpg" style="max-width: 300px" loading="lazy" alt="Cross Culture Meeting" /></div>
 <div>
 <p>The CC meeting on Sunday’s is the most important meeting place for us. It is a service in which we make possibility of knowing each other and God through conversation, coffee, meal, prayer, Bible interpretation, singing and silence. We start at 13:00 with a meal and enjoy what we have cooked. Even if you do not bring your own food, you are welcome. There is always enough for everyone!</p>
 <p>Children have their own program after the meal. The adults listen to a sermon in which Bible text is explained. Afterwards we talk in the small groups.</p>
@@ -41,14 +41,14 @@ Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Wou
 
 <p>More information via Linda <a href="tel:=31613204496">(0613204496)</a>.</p>
 </div>
-<div class="right"><img src="assets/img/huisgroepen.jpg" style="max-width: 300px"></div>
+<div class="right"><img src="assets/img/huisgroepen.jpg" style="max-width: 300px" loading="lazy" alt="House Groups"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Practical help
 <div class="flex-container">
-<div class="left"><img src="assets/img/praktische-hulp.jpg" style="max-width: 300px"></div>
+<div class="left"><img src="assets/img/praktische-hulp.jpg" style="max-width: 300px" loading="lazy" alt="Practical Help"></div>
 <div>
 <p>We find it important to help each other with the problems and we want to help the neighborhood. For example financial help, bicycle repair, borrowing a car, clothing, food or finding a language mate.</p>
 <p>Every week we distribute food from three different places in the city. Through two community houses and on Sundays in the church. <a href="en/contact.html">Contact us</a> if you want to participate!</p>
@@ -65,14 +65,14 @@ Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Wou
 
 <p>For more information contact Wiljanne <a href="tel:+31613204496">(0613204496)</a></p>.
 </div>
-<div class="right"><img src="assets/img/kids.jpg" style="max-width: 300px"></div>
+<div class="right"><img src="assets/img/kids.jpg" style="max-width: 300px" loading="lazy" alt="Kids Program"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Group vacation
 <div class="flex-container">
-<div class="left"><img src="assets/img/groepsvakantie.jpg" style="max-width: 300px"></div>
+<div class="left"><img src="assets/img/groepsvakantie.jpg" style="max-width: 300px" loading="lazy" alt="Group Vacation"></div>
 <div>
 <p>Every year we go for a holiday in summer holidays. With whom? People involved in Cross Culture Nieuwegein activities and the people who cannot afford holiday.</p>
 <p>It is great to relax for a week and to have time to get to know each other better. Do you want to join? Welcome!</p>
@@ -85,14 +85,14 @@ Weekly gathering is around Meet & Eat - moments, we use Alpha UK's material. Wou
 <div>
 <p>The teenagers meet each other at cross culture or the activities nearby playing football, watching a movie or on a group holiday together.</p>
 </div>
-<div class="right"><img src="assets/img/tieners.jpg" style="max-width: 300px"></div>
+<div class="right"><img src="assets/img/tieners.jpg" style="max-width: 300px" loading="lazy" alt="Teenagers"></div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # Cross Culture Christmas
 <div class="flex-container">
-<div class="left"><img src="assets/img/christmas.jpg" style="max-width: 300px"></div>
+<div class="left"><img src="assets/img/christmas.jpg" style="max-width: 300px" loading="lazy" alt="Cross Culture Christmas"></div>
 <div>
 <p>This is an event to celebrate Christmas in a special way like God’s family. Friends, family, neighbors: everyone is welcome!</p>
 </div>

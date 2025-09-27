@@ -18,7 +18,7 @@ canonical_url: "https://cross-culture-nieuwegein.nl/partners"
     {% for partner in site.data.partners-nl %}
         <div class="row align-items-center py-2 py-sm-5">
             <div class="col-12 col-sm-3">
-                <a href="{{ partner.link }}" target="_blank"><img class="img-fluid" src="assets/img/{{ partner.img }}"></a>
+                <a href="{{ partner.link }}" target="_blank"><img class="img-fluid" src="assets/img/{{ partner.img }}" loading="lazy" alt="{{ partner.name }}"></a>
             </div>
             <div class="col-12 col-sm-9">
                 {{ partner.text | markdownify}}
