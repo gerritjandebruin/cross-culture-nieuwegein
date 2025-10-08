@@ -7,7 +7,7 @@ canonical_url: "https://cross-culture-nieuwegein.nl/en/partners.html"
 description: "Meet our partners - organizations working together with Cross Culture Nieuwegein to build community and support in Nieuwegein."
 keywords: "partners Cross Culture Nieuwegein, collaboration, community organizations, Nieuwegein partners, cooperation"
 og_type: "website"
-og_image: "assets/img/slideshow3.jpg"
+og_image: "../assets/img/slideshow3.jpg"
 og_image_alt: "Cross Culture activities and community life in Nieuwegein"
 ---
 <figure class="text-end">
@@ -19,7 +19,7 @@ og_image_alt: "Cross Culture activities and community life in Nieuwegein"
     {% for partner in site.data.partners-en %}
         <div class="row align-items-center py-2 py-sm-5">
             <div class="col-12 col-sm-3">
-                <a href="{{ partner.link }}" target="_blank"><img class="img-fluid" src="assets/img/{{ partner.img }}" loading="lazy" alt="{{ partner.name }}"></a>
+                <a href="{{ partner.link }}" target="_blank"><img class="img-fluid" src="../assets/img/{{ partner.img }}" loading="lazy" alt="{{ partner.name }}"></a>
             </div>
             <div class="col-12 col-sm-9">
                 {{ partner.text | markdownify}}
