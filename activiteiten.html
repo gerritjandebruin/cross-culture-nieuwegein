@@ -4,8 +4,10 @@ lang: nl
 lang-link: activities
 last_modified_at: 2025-03-18
 canonical_url: "https://cross-culture-nieuwegein.nl/activiteiten.html"
-description: "Ontdek alle activiteiten van Cross Culture Nieuwegein: Cross Culture Meeting, huisgroepen, praktische hulp, kinderopvang, Alpha cursus en meer!"
-keywords: "activiteiten Cross Culture Nieuwegein, CC Meeting, huisgroepen, Alpha cursus, kinderopvang, praktische hulp, woongroepen, groepsvakantie"
+description: "Ontdek alle activiteiten van Cross Culture Nieuwegein: Cross Culture Meeting, huisgroepen, praktische
+hulp, kinderopvang, Alpha cursus en meer!"
+keywords: "activiteiten Cross Culture Nieuwegein, CC Meeting, huisgroepen, Alpha cursus, kinderopvang, praktische hulp,
+woongroepen, groepsvakantie"
 og_type: "website"
 og_image: "assets/img/cc-meeting1.jpg"
 og_image_alt: "Mensen van diverse culturen tijdens Cross Culture Meeting met eten en samenkomst"
@@ -38,13 +40,22 @@ og_image_alt: "Mensen van diverse culturen tijdens Cross Culture Meeting met ete
     <hr class="my-1 my-sm-3" />
     {% for activity in site.data.activiteiten-nl %}
     <div class="row align-items-center">
-      <div class="{% if activity.show_thumbnail %}col-9{% else %}col-12{% endif %}">
+      {% if activity.show_thumbnail %}
+      <div class="col-12 d-md-none mb-3 text-center">
+        <img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}" loading="lazy" />
+      </div>
+      <div class="col-12 col-md-9">
         <h2 id="{{activity.short}}">{{activity.title}}</h2>
         <div class="text-start">{{activity.text}}</div>
       </div>
-      {% if activity.show_thumbnail %}
-      <div class="col-3"><img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}"
-          loading="lazy" /></div>
+      <div class="d-none d-md-block col-md-3">
+        <img src="assets/img/{{activity.img}}" class="img-thumbnail" alt="{{activity.title}}" loading="lazy" />
+      </div>
+      {% else %}
+      <div class="col-12">
+        <h2 id="{{activity.short}}">{{activity.title}}</h2>
+        <div class="text-start">{{activity.text}}</div>
+      </div>
       {% endif %}
     </div>
     <hr />
