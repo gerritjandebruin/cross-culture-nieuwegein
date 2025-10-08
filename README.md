@@ -23,3 +23,4 @@ Pas de volgende pagina's aan:
 - wie-zijn-wij.md voor de Nederlandstalige wie-zijn-wij pagina
 
 Je kan ook een issue aanmaken op GitHub als je hulp nodig hebt (zie tabblad "Issues").
+
