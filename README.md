@@ -22,5 +22,8 @@ Pas de volgende pagina's aan:
 - partners.html voor de Nederlandstalige partnerpagina (zie ook _data/partners-nl.yml)
 - wie-zijn-wij.md voor de Nederlandstalige wie-zijn-wij pagina
 
-Je kan ook een issue aanmaken op GitHub als je hulp nodig hebt (zie tabblad "Issues").
+Sla de wijzigingen op, commit en maak een pull request aan.
+![alt text](20251008-2039-14.0068879.gif)
+
+Je kan ook een issue aanmaken op GitHub als je hulp nodig hebt (zie https://github.com/gerritjandebruin/cross-culture-nieuwegein/issues/new)
 
