@@ -21,3 +21,5 @@ Pas de volgende pagina's aan:
 - contact.html voor de Nederlandstalige contactpagina (zie ook _data/contacts.yml)
 - partners.html voor de Nederlandstalige partnerpagina (zie ook _data/partners-nl.yml)
 - wie-zijn-wij.md voor de Nederlandstalige wie-zijn-wij pagina
+
+Je kan ook een issue aanmaken op GitHub als je hulp nodig hebt (zie tabblad "Issues").
