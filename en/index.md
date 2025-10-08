@@ -7,7 +7,7 @@ canonical_url: "https://cross-culture-nieuwegein.nl/en"
 description: "Cross Culture Nieuwegein - A warm, colorful church in Nieuwegein with people from all cultures. Everyone is welcome at our Sunday gatherings!"
 keywords: "Cross Culture Nieuwegein, church, multicultural, Nieuwegein, Christian, community, Sunday service, Alpha course, activities, international"
 og_type: "website"
-og_image: "assets/img/slideshow1.jpg"
+og_image: "https://cross-culture-nieuwegein.nl/assets/img/slideshow1.jpg"
 og_image_alt: "Cross Culture Nieuwegein community during a gathering"
 ---
 
@@ -18,13 +18,13 @@ Everyone is welcome, whether you are a Christian or not. We would like to meet y
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/slideshow1.jpg" alt="Cross Culture Nieuwegein community during a gathering">
+      <img class="d-block w-100" src="https://cross-culture-nieuwegein.nl/assets/img/slideshow1.jpg" alt="Cross Culture Nieuwegein community during a gathering">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/slideshow2.jpg" alt="People from different cultures together at Cross Culture Nieuwegein">
+      <img class="d-block w-100" src="https://cross-culture-nieuwegein.nl/assets/img/slideshow2.jpg" alt="People from different cultures together at Cross Culture Nieuwegein">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/slideshow3.jpg" alt="Cross Culture activities and community life in Nieuwegein">
+      <img class="d-block w-100" src="https://cross-culture-nieuwegein.nl/assets/img/slideshow3.jpg" alt="Cross Culture activities and community life in Nieuwegein">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

@@ -1,12 +1,12 @@
 - name: Welkom!
-  link: /
+  link: https://cross-culture-nieuwegein.nl/
 - name: Wie zijn wij?
-  link: ./wie-zijn-wij.html
+  link: https://cross-culture-nieuwegein.nl/wie-zijn-wij.html
 - name: Activiteiten
-  link: ./activiteiten.html
+  link: https://cross-culture-nieuwegein.nl/activiteiten.html
 - name: Partners
-  link: ./partners.html
+  link: https://cross-culture-nieuwegein.nl/partners.html
 - name: Media
-  link: ./media.html
+  link: https://cross-culture-nieuwegein.nl/media.html
 - name: Contact
-  link: ./contact.html
+  link: https://cross-culture-nieuwegein.nl/contact.html
