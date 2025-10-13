@@ -44,7 +44,7 @@ Iedereen is welkom, of je nu wel christen bent of niet. We willen je graag ontmo
 ------------------------------------------------------------------------------------------------------------------------
 
 # WELKOM IN GODS HUIS
-Elke zondagmiddag komen we om 13:00u bij elkaar in de Cross Culture Meeting. Vaak zingen we aan het begin van de dienst ons <a href="https://www.youtube.com/watch?v=JgfYcKyv61Q">“clublied”</a>. Je bent van harte welkom om eens te komen kijken. We willen je met open armen ontvangen!
+Elke zondagmiddag komen we om 13:00u bij elkaar in de Cross Culture Meeting. Je bent van harte welkom om eens te komen kijken.
 
 # LOCATIE
 <a href="https://goo.gl/maps/8XTYnRHuTD62jS336">Wiersdijk 8b, Nieuwegein</a>
