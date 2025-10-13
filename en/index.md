@@ -26,6 +26,9 @@ Everyone is welcome, whether you are a Christian or not. We would like to meet y
     <div class="carousel-item">
       <img class="d-block w-100" src="https://cross-culture-nieuwegein.nl/assets/img/slideshow3.jpg" alt="Cross Culture activities and community life in Nieuwegein">
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://cross-culture-nieuwegein.nl/assets/img/slideshow4.jpg" alt="Cross Culture activities and community life in Nieuwegein">
+    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
