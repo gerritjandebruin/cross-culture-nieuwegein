@@ -43,14 +43,7 @@ Everyone is welcome, whether you are a Christian or not. We would like to meet y
 
 # WELCOME IN GODS HOUSE
 
-All our activities are CORONA PROOF, according to our corona-protocol, feel free to ask for our latest policy.
-
-Contact us for more information: <a href="tel:+31627004576">06 27004576</a> or <a href="mailto:info@cross-culture-nieuwegein.nl">info@cross-culture-nieuwegein.nl</a>.
-
 **Every Sunday our Cross Culture Meeting starts at 1:00 pm.**
-
-**Farsi Bible Course (basic course Christian Faith)**
-Monday 19:30
 
 **Homegroups**
 During the week at different times and at different people's homes we meet.
