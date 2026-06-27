@@ -4,4 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    # Voorkom dat Dependabot normale versie-updates opent (zoals .312 naar .314).
+    # Hierdoor ontvangen we ALLEEN nog kritieke beveiligingsupdates (security alerts)
+    # Niet-kritische updates duss zelf forceren via Insight -> Dependency graph -> Dependabot -> Check for updates
     open-pull-requests-limit: 0
